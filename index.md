@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to CS 591 L1: User-centric Data Systems, Fall 2020
 
 You can use the [editor on GitHub](https://github.com/jliagouris/ucds20/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

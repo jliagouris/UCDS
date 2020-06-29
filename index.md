@@ -2,6 +2,12 @@ Welcome to **CS 591 L1: User-centric Data Systems**, Fall 2020
 
 ## Course Information
 
+- [Course Syllabus](./syllabus.html)
+- Code: CS 591 L1
+- Instructor: [John Liagouris](https://cs-people.bu.edu/liagos/)
+- Lectures: Tue/Thu 9:30-10:45, [CAS	B20](https://www.bu.edu/classrooms/classroom/cas-b20/)
+- Office hours: TBD
+
 ## Overview
 
 Understanding the behavior of data systems is hard. Questions like “Why does the system return certain results?” and “Why is the execution slow?” arise too often in large-scale data analysis. Answering such questions is still a cumbersome task that requires considerable amount of resources as well as manual work by experts.

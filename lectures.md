@@ -90,7 +90,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Quiz #1</td>
   </tr>
-  </tr>
+  <tr>
     <td class="tg-0pky">10/08</td>
     <td class="tg-0pky">Machine Learning Concepts</td>
     <td class="tg-0pky"></td>

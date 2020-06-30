@@ -139,7 +139,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">11/03</td>
     <td class="tg-0pky">Lec 15: Causal Profiling</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815409">Coz</a></td>
   </tr>
   <tr>
     <td class="tg-x5oc">11/05</td>
@@ -157,19 +157,19 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">11/10</td>
     <td class="tg-0pky">Lec 16: Big Data Systems Performance Analysis</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf">COST</a><br/> Read: <a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-ousterhout.pdf">Blocked time Analysis</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/12</td>
     <td class="tg-0pky">Lec 17: System Tracing</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Read: <a href="https://research.google/pubs/pub36356/">Dapper</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/17</td>
     <td class="tg-0pky">Lec 18: System Tracing (cont.)</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815415">Pivot Tracing</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/19</td>
@@ -181,7 +181,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">11/24</td>
     <td class="tg-0pky">Lec 20: Log-based Performance Analysis</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chow.pdf">The Mystery Machine</a></td>
   </tr>
   <tr>
     <td class="tg-x5ol">11/26</td>
@@ -193,13 +193,13 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">12/01</td>
     <td class="tg-0pky">Lec 21: Black-Box Performance Analysis</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1165389.945454">Black-box Performance Analysis</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">12/03</td>
     <td class="tg-0pky">Lec 22: Differential Provenance</td>
     <td class="tg-0pky"></td>
-    <td class="tg-xgl1">Quiz #2</td>
+    <td class="tg-xgl1">Quiz #2<br/><a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">Differential Provenance</a></td>
   </tr>
   <tr>
     <td class="tg-x5oc">12/08</td>

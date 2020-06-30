@@ -199,7 +199,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">12/03</td>
     <td class="tg-0pky">Lec 22: Differential Provenance</td>
     <td class="tg-0pky"></td>
-    <td class="tg-xgl1"><a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">Differential Provenance</a><br/><b>Quiz #2 (during lecture)</b></td>
+    <td class="tg-xgl1">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">Differential Provenance</a><br/><b>Quiz #2 (during lecture)</b></td>
   </tr>
   <tr>
     <td class="tg-x5oc">12/08</td>

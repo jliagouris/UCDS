@@ -176,7 +176,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">11/24</td>
-    <td class="tg-0pky">Black-Box Performance Analysis</td>
+    <td class="tg-0pky">Log-based Performance Analysis</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -188,7 +188,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">12/01</td>
-    <td class="tg-0pky">Log-based Performance Analysis</td>
+    <td class="tg-0pky">Black-Box Performance Analysis</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>

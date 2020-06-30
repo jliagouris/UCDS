@@ -61,19 +61,19 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">09/22</td>
     <td class="tg-0pky">Lec 5: Discussion of Assignment #1</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a hreaf="https://dl.acm.org/doi/pdf/10.1145/358916.358995">Explaining Collaborative Filtering Recommendations</a></td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/358916.358995">Explaining Collaborative Filtering Recommendations</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">09/24</td>
     <td class="tg-0pky">Lec 6: Data Causality</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a hreaf="https://people.cs.umass.edu/~ameli/projects/causality/papers/MUD2010.pdf">Functional Causality</a></td>
+    <td class="tg-0pky">Read: <a href="https://people.cs.umass.edu/~ameli/projects/causality/papers/MUD2010.pdf">Functional Causality</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">09/29</td>
     <td class="tg-0pky">Lec 7: Dataflow Provenance</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="http://ilpubs.stanford.edu:8090/985/2/cidr_prov_camera2.pdf">Generalized Provenance for MapReduce Workloads</a></td>
+    <td class="tg-0pky">Read: <a href="http://ilpubs.stanford.edu:8090/985/2/cidr_prov_camera2.pdf">Provenance for MapReduce Workloads</a></td>
   </tr>
   <tr>
     <td class="tg-x5oc">10/01</td>

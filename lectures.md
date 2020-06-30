@@ -68,40 +68,40 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">09/24</td>
-    <td class="tg-0pky">Provenance in Dataflows</td>
+    <td class="tg-0pky">Dataflow Provenance</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
-    <td class="tg-0pky">10/01</td>
-    <td class="tg-0pky">Hacking Day</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Office hours during lecture time</td>
-  </tr>
-    <tr>
+  <tr>
+    <td class="tg-x5oc">10/01</td>
+    <td class="tg-ado3">Hacking Day</td>
+    <td class="tg-x5oc"></td>
+    <td class="tg-x5oc">Office hours during lecture time</td>
+  <tr>
     <td class="tg-31ua">10/02</td>
     <td class="tg-31ua"></td>
     <td class="tg-31ua"></td>
     <td class="tg-31ua">Assignment #1 due</td>
   </tr>
   <tr>
-  <tr>
-    <td class="tg-x5oc">10/6</td>
-    <td class="tg-ado3">How-to Queries</td>
-    <td class="tg-x5oc"></td>
-    <td class="tg-x5oc"></td>
   </tr>
-    <tr>
-    <td class="tg-x5oc">10/8</td>
-    <td class="tg-ado3">Machine Learning Concepts</td>
-    <td class="tg-x5oc"></td>
-    <td class="tg-x5oc"></td>
+    <td class="tg-0pky">10/06</td>
+    <td class="tg-0pky">How-to Queries</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
-  <tr>
-    <td class="tg-x5oc">10/13</td>
-    <td class="tg-ado3">Explaining Classifications</td>
-    <td class="tg-x5oc"></td>
-    <td class="tg-x5oc"></td>
   </tr>
+    <td class="tg-0pky">10/08</td>
+    <td class="tg-0pky">Machine Learning Concepts</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  </tr>
+    <td class="tg-0pky">10/13</td>
+    <td class="tg-0pky">Explaining Classifications</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr> 
   <tr>
     <td class="tg-x5oc">10/15</td>
     <td class="tg-ado3">No Lecture</td>

@@ -91,7 +91,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">10/06</td>
     <td class="tg-0pky">Lec 8: How-to Queries</td>
     <td class="tg-0pky"></td>
-    <td class="tg-xgl1">Quiz #1</td>
+    <td class="tg-xgl1">Quiz #1<br/>Read: <a href="https://homes.cs.washington.edu/~suciu/file24_main.pdf">How-to Queries</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">10/08</td>
@@ -103,7 +103,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">10/13</td>
     <td class="tg-0pky">Lec 10: Explaining Classification Results</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Read: <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">LIME</a></td>
   </tr> 
   <tr>
     <td class="tg-x5ol">10/15</td>

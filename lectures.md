@@ -108,10 +108,10 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-x5oc">Substitute Monday</td>
   </tr>
   <tr>
-    <td class="tg-x5oc">10/20</td>
-    <td class="tg-ado3">Interpreting Model Predictions</td>
-    <td class="tg-x5oc"></td>
-    <td class="tg-x5oc"></td>
+    <td class="tg-0pky">10/20</td>
+    <td class="tg-0pky">Interpreting Model Predictions</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">10/22</td>

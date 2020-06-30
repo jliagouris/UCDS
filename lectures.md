@@ -43,7 +43,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">09/10</td>
     <td class="tg-0pky">Lec 2: Data Provenance</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Read: <a href="https://sigmodrecord.org/publications/sigmodRecord/1809/pdfs/03_Principles_Buneman.pdf">Provenance: What's Next?</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">09/15</td>
@@ -101,7 +101,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">10/13</td>
-    <td class="tg-0pky">Lec 10: Explaining Classifications</td>
+    <td class="tg-0pky">Lec 10: Explaining Classification Results</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr> 

@@ -70,19 +70,19 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">09/24</td>
+    <td class="tg-0pky">09/29</td>
     <td class="tg-0pky">Lec 7: Dataflow Provenance</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-x5oc">10/29</td>
+    <td class="tg-x5oc">10/01</td>
     <td class="tg-ado3">Hacking Day</td>
     <td class="tg-x5oc"></td>
     <td class="tg-x5oc">Office hours during lecture time</td>
   </tr>
   <tr>
-    <td class="tg-31ua">10/01</td>
+    <td class="tg-31ua">10/02</td>
     <td class="tg-31ua"></td>
     <td class="tg-31ua"></td>
     <td class="tg-31ua">Assignment #1 due</td>

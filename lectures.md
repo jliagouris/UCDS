@@ -9,7 +9,10 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 
 # Tentative lecture schedule
 
+
+
 <style type="text/css">
+.tg .tg-x5ol{background-color:#8a3dd2;border-color:inherit;text-align:left;vertical-align:top}  
 .tg .tg-x5oc{background-color:#fe996b;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-xgl1{background-color:#8dd6f8;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-xglb{font-weight:bold;background-color:#8dd6f8;border-color:inherit;text-align:left;vertical-align:top}
@@ -103,10 +106,10 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky"></td>
   </tr> 
   <tr>
-    <td class="tg-x5oc">10/15</td>
-    <td class="tg-ado3">No Lecture</td>
-    <td class="tg-x5oc"></td>
-    <td class="tg-x5oc">Substitute Monday</td>
+    <td class="tg-x5ol">10/15</td>
+    <td class="tg-x5ol">No Lecture</td>
+    <td class="tg-x5ol"></td>
+    <td class="tg-x5ol">Substitute Monday</td>
   </tr>
   <tr>
     <td class="tg-0pky">10/20</td>
@@ -181,10 +184,10 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-x5oc">11/26</td>
-    <td class="tg-ado3">No Lecture</td>
-    <td class="tg-x5oc"></td>
-    <td class="tg-x5oc">Thanksgiving Recess</td>
+    <td class="tg-x5ol">11/26</td>
+    <td class="tg-x5ol">No Lecture</td>
+    <td class="tg-x5ol"></td>
+    <td class="tg-x5ol">Thanksgiving Recess</td>
   </tr>
   <tr>
     <td class="tg-0pky">12/01</td>

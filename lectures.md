@@ -128,7 +128,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">10/29</td>
-    <td class="tg-0pky">System Concepts</td>
+    <td class="tg-0pky">Distributed System Concepts</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>

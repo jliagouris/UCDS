@@ -181,10 +181,10 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">11/26</td>
-    <td class="tg-0pky">Thanksgiving Recess</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><br></td>
+    <td class="tg-x5oc">11/26</td>
+    <td class="tg-ado3">Thanksgiving Recess</td>
+    <td class="tg-x5oc"></td>
+    <td class="tg-x5oc"></td>
   </tr>
   <tr>
     <td class="tg-0pky">12/01</td>

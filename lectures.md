@@ -86,19 +86,19 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">10/06</td>
-    <td class="tg-0pky">Lec 9: How-to Queries</td>
+    <td class="tg-0pky">Lec 8: How-to Queries</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Quiz #1</td>
   </tr>
   <tr>
     <td class="tg-0pky">10/08</td>
-    <td class="tg-0pky">Lec 10: Machine Learning Concepts</td>
+    <td class="tg-0pky">Lec 9: Machine Learning Concepts</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">10/13</td>
-    <td class="tg-0pky">Lec 11: Explaining Classifications</td>
+    <td class="tg-0pky">Lec 10: Explaining Classifications</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr> 
@@ -110,31 +110,31 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">10/20</td>
-    <td class="tg-0pky">Lec 12: Interpreting Model Predictions</td>
+    <td class="tg-0pky">Lec 11: Interpreting Model Predictions</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">10/22</td>
-    <td class="tg-0pky">Lec 13: Discussion of Assignment #2</td>
+    <td class="tg-0pky">Lec 12: Discussion of Assignment #2</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-xgl1">10/27</td>
-    <td class="tg-xglb">Lec 14: Guest Lecture</td>
+    <td class="tg-xglb">Lec 13: Guest Lecture</td>
     <td class="tg-xgl1"></td>
     <td class="tg-xgl1"></td>
   </tr>
   <tr>
     <td class="tg-0pky">10/29</td>
-    <td class="tg-0pky">Lec 15: Distributed Systems Concepts</td>
+    <td class="tg-0pky">Lec 14: Distributed Systems Concepts</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/03</td>
-    <td class="tg-0pky">Lec 16: Causal Profiling</td>
+    <td class="tg-0pky">Lec 15: Causal Profiling</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -152,31 +152,31 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">11/10</td>
-    <td class="tg-0pky">Lec 17: Big Data Systems Performance Analysis</td>
+    <td class="tg-0pky">Lec 16: Big Data Systems Performance Analysis</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/12</td>
-    <td class="tg-0pky">Lec 18: System Tracing</td>
+    <td class="tg-0pky">Lec 17: System Tracing</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/17</td>
-    <td class="tg-0pky">Lec 19: System Tracing (cont.)</td>
+    <td class="tg-0pky">Lec 18: System Tracing (cont.)</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/19</td>
-    <td class="tg-0pky">Lec 20: Discussion of Assignment #3</td>
+    <td class="tg-0pky">Lec 19: Discussion of Assignment #3</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/24</td>
-    <td class="tg-0pky">Lec 21: Log-based Performance Analysis</td>
+    <td class="tg-0pky">Lec 20: Log-based Performance Analysis</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -188,13 +188,13 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">12/01</td>
-    <td class="tg-0pky">Lec 22: Black-Box Performance Analysis</td>
+    <td class="tg-0pky">Lec 21: Black-Box Performance Analysis</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">12/03</td>
-    <td class="tg-0pky">Lec 23: Differential Provenance</td>
+    <td class="tg-0pky">Lec 22: Differential Provenance</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Quiz #2</td>
   </tr>
@@ -206,7 +206,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-31ua">12/10</td>
-    <td class="tg-31ua">Lec 24: Recap</td>
+    <td class="tg-31ua">Lec 23: Recap</td>
     <td class="tg-31ua"></td>
     <td class="tg-31ua">Assignment #3 due</td>
   </tr>

@@ -88,7 +88,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">10/06</td>
     <td class="tg-0pky">How-to Queries</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Quiz #1</td>
   </tr>
   </tr>
     <td class="tg-0pky">10/08</td>
@@ -196,7 +196,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">12/03</td>
     <td class="tg-0pky">Differential Provenance</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Quiz #2</td>
   </tr>
   <tr>
     <td class="tg-x5oc">12/08</td>

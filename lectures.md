@@ -26,49 +26,49 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">09/03</td>
-    <td class="tg-0pky">Course introduction</td>
+    <td class="tg-0pky">Lec 0: Course introduction</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">09/8</td>
-    <td class="tg-0pky">Database Concepts</td>
+    <td class="tg-0pky">Lec 1: Database Concepts</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">09/8</td>
-    <td class="tg-0pky">Data Provenance</td>
+    <td class="tg-0pky">Lec 2: Data Provenance</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">09/10</td>
-    <td class="tg-0pky">Why-not Provenance</td>
+    <td class="tg-0pky">Lec 3: Why-not Provenance</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">09/15</td>
-    <td class="tg-0pky">Introduction to Ray</td>
+    <td class="tg-0pky">Lec 4: Introduction to Ray</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">09/17</td>
-    <td class="tg-0pky">Discussion of Assignment #1</td>
+    <td class="tg-0pky">Lec 5: Discussion of Assignment #1</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">09/22</td>
-    <td class="tg-0pky">Data Causality</td>
+    <td class="tg-0pky">Lec 6: Data Causality</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">09/24</td>
-    <td class="tg-0pky">Dataflow Provenance</td>
+    <td class="tg-0pky">Lec 7: Dataflow Provenance</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -86,19 +86,19 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">10/06</td>
-    <td class="tg-0pky">How-to Queries</td>
+    <td class="tg-0pky">Lec 9: How-to Queries</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Quiz #1</td>
   </tr>
   <tr>
     <td class="tg-0pky">10/08</td>
-    <td class="tg-0pky">Machine Learning Concepts</td>
+    <td class="tg-0pky">Lec 10: Machine Learning Concepts</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">10/13</td>
-    <td class="tg-0pky">Explaining Classifications</td>
+    <td class="tg-0pky">Lec 11: Explaining Classifications</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr> 
@@ -110,31 +110,31 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">10/20</td>
-    <td class="tg-0pky">Interpreting Model Predictions</td>
+    <td class="tg-0pky">Lec 12: Interpreting Model Predictions</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">10/22</td>
-    <td class="tg-0pky">Discussion of Assignment #2</td>
+    <td class="tg-0pky">Lec 13: Discussion of Assignment #2</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-xgl1">10/27</td>
-    <td class="tg-xglb">Guest Lecture</td>
+    <td class="tg-xglb">Lec 14: Guest Lecture</td>
     <td class="tg-xgl1"></td>
     <td class="tg-xgl1"></td>
   </tr>
   <tr>
     <td class="tg-0pky">10/29</td>
-    <td class="tg-0pky">Distributed Systems Concepts</td>
+    <td class="tg-0pky">Lec 15: Distributed Systems Concepts</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/03</td>
-    <td class="tg-0pky">Causal Profiling</td>
+    <td class="tg-0pky">Lec 16: Causal Profiling</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -152,31 +152,31 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">11/10</td>
-    <td class="tg-0pky">Big Data Systems Performance Analysis</td>
+    <td class="tg-0pky">Lec 17: Big Data Systems Performance Analysis</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/12</td>
-    <td class="tg-0pky">System Tracing</td>
+    <td class="tg-0pky">Lec 18: System Tracing</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/17</td>
-    <td class="tg-0pky">System Tracing (cont.)</td>
+    <td class="tg-0pky">Lec 19: System Tracing (cont.)</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/19</td>
-    <td class="tg-0pky">Discussion of Assignment #3</td>
+    <td class="tg-0pky">Lec 20: Discussion of Assignment #3</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/24</td>
-    <td class="tg-0pky">Log-based Performance Analysis</td>
+    <td class="tg-0pky">Lec 21: Log-based Performance Analysis</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -188,13 +188,13 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">12/01</td>
-    <td class="tg-0pky">Black-Box Performance Analysis</td>
+    <td class="tg-0pky">Lec 22: Black-Box Performance Analysis</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">12/03</td>
-    <td class="tg-0pky">Differential Provenance</td>
+    <td class="tg-0pky">Lec 23: Differential Provenance</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Quiz #2</td>
   </tr>
@@ -206,7 +206,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-31ua">12/10</td>
-    <td class="tg-31ua">Recap</td>
+    <td class="tg-31ua">Lec 24: Recap</td>
     <td class="tg-31ua"></td>
     <td class="tg-31ua">Assignment #3 due</td>
   </tr>

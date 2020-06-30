@@ -151,10 +151,10 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-31ua">Assignment #2 due</td>
   </tr>
   <tr>
-    <td class="tg-x5oc">11/10</td>
-    <td class="tg-x5oc">Big Data Systems Performance Analysis</td>
-    <td class="tg-x5oc"></td>
-    <td class="tg-x5oc"></td>
+    <td class="tg-0pky">11/10</td>
+    <td class="tg-0pky">Big Data Systems Performance Analysis</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/12</td>
@@ -162,17 +162,17 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
-    <tr>
-    <td class="tg-xgl1">11/17</td>
-    <td class="tg-xglb">System Tracing (cont.)</td>
-    <td class="tg-xgl1"></td>
-    <td class="tg-xgl1"></td>  
+  <tr>
+    <td class="tg-0pky">11/17</td>
+    <td class="tg-0pky">System Tracing (cont.)</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
-<tr>
-    <td class="tg-31ua">11/19</td>
-    <td class="tg-31ua">Discussion of Assignment #3</td>
-    <td class="tg-31ua"></td>
-    <td class="tg-31ua"></td>
+  <tr>
+    <td class="tg-0pky">11/19</td>
+    <td class="tg-0pky">Discussion of Assignment #3</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/24</td>
@@ -199,15 +199,15 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">12/08</td>
-    <td class="tg-0pky">Hacking Day</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Office hours during lecture time</td>
+    <td class="tg-x5oc">12/08</td>
+    <td class="tg-ado3">Hacking Day</td>
+    <td class="tg-x5oc"></td>
+    <td class="tg-x5oc">Office hours during lecture time</td>
   </tr>
   <tr>
-    <td class="tg-0pky">12/10</td>
-    <td class="tg-0pky">Recap</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Assignment #3 due</td>
+    <td class="tg-31ua">12/10</td>
+    <td class="tg-31ua">Recap</td>
+    <td class="tg-31ua"></td>
+    <td class="tg-31ua">Assignment #3 due</td>
   </tr>
 </table>

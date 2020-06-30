@@ -95,7 +95,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
-  </tr>
+  <tr>
     <td class="tg-0pky">10/13</td>
     <td class="tg-0pky">Explaining Classifications</td>
     <td class="tg-0pky"></td>

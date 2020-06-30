@@ -73,7 +73,8 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">09/29</td>
     <td class="tg-0pky">Lec 7: Dataflow Provenance</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="http://ilpubs.stanford.edu:8090/985/2/cidr_prov_camera2.pdf">Provenance for MapReduce Workloads</a></td>
+    <td class="tg-0pky">Read: <a href="http://ilpubs.stanford.edu:8090/985/2/cidr_prov_camera2.pdf">Provenance for MapReduce Workloads</a><br />
+      Optional: <a href="http://www.vldb.org/pvldb/vol9/p1137-chothia.pdf">Iterative Backward Tracing</a></td>
   </tr>
   <tr>
     <td class="tg-x5oc">10/01</td>
@@ -175,7 +176,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">11/19</td>
     <td class="tg-0pky">Lec 19: Discussion of Assignment #3</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Read: <a href="https://cs-people.bu.edu/liagos/material/nsdi18-snailtrail.pdf"></a>SnailTrail</td>
   </tr>
   <tr>
     <td class="tg-0pky">11/24</td>

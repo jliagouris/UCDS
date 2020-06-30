@@ -77,6 +77,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-ado3">Hacking Day</td>
     <td class="tg-x5oc"></td>
     <td class="tg-x5oc">Office hours during lecture time</td>
+  </tr>
   <tr>
     <td class="tg-31ua">10/02</td>
     <td class="tg-31ua"></td>
@@ -126,28 +127,28 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-xgl1"></td>
   </tr>
   <tr>
-    <td class="tg-31ua">10/29</td>
-    <td class="tg-31ua">System Concepts</td>
+    <td class="tg-0pky">10/29</td>
+    <td class="tg-0pky">System Concepts</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11/03</td>
+    <td class="tg-0pky">Causal Profiling</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-x5oc">11/05</td>
+    <td class="tg-ado3">Hacking Day</td>
+    <td class="tg-x5oc"></td>
+    <td class="tg-x5oc">Office hours during lecture time</td>
+  </tr>
+  <tr>
+    <td class="tg-31ua">11/06</td>
     <td class="tg-31ua"></td>
     <td class="tg-31ua"></td>
-  </tr>
-  <tr>
-    <td class="tg-xgl1">11/03</td>
-    <td class="tg-xglb">Causal Profiling</td>
-    <td class="tg-xgl1"></td>
-    <td class="tg-xgl1"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">11/05</td>
-    <td class="tg-0pky">Hacking Day</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Office hours during lecture time</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">11/06</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Assignment #2 due</td>
+    <td class="tg-31ua">Assignment #2 due</td>
   </tr>
   <tr>
     <td class="tg-x5oc">11/10</td>

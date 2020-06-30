@@ -84,7 +84,6 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-31ua">Assignment #1 due</td>
   </tr>
   <tr>
-  </tr>
     <td class="tg-0pky">10/06</td>
     <td class="tg-0pky">How-to Queries</td>
     <td class="tg-0pky"></td>

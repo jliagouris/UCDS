@@ -34,37 +34,37 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">09/8</td>
+    <td class="tg-0pky">09/08</td>
     <td class="tg-0pky">Lec 1: Database Concepts</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">09/8</td>
+    <td class="tg-0pky">09/10</td>
     <td class="tg-0pky">Lec 2: Data Provenance</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">09/10</td>
+    <td class="tg-0pky">09/15</td>
     <td class="tg-0pky">Lec 3: Why-not Provenance</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">09/15</td>
+    <td class="tg-0pky">09/17</td>
     <td class="tg-0pky">Lec 4: Introduction to Ray</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">09/17</td>
+    <td class="tg-0pky">09/22</td>
     <td class="tg-0pky">Lec 5: Discussion of Assignment #1</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">09/22</td>
+    <td class="tg-0pky">09/24</td>
     <td class="tg-0pky">Lec 6: Data Causality</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -76,13 +76,13 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-x5oc">10/01</td>
+    <td class="tg-x5oc">10/29</td>
     <td class="tg-ado3">Hacking Day</td>
     <td class="tg-x5oc"></td>
     <td class="tg-x5oc">Office hours during lecture time</td>
   </tr>
   <tr>
-    <td class="tg-31ua">10/02</td>
+    <td class="tg-31ua">10/01</td>
     <td class="tg-31ua"></td>
     <td class="tg-31ua"></td>
     <td class="tg-31ua">Assignment #1 due</td>

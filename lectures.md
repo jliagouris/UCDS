@@ -12,7 +12,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 
 
 <style type="text/css">
-.tg .tg-x5ol{background-color:#8a3dd2;border-color:inherit;text-align:left;vertical-align:top}  
+.tg .tg-x5ol{background-color:##b376ee;border-color:inherit;text-align:left;vertical-align:top}  
 .tg .tg-x5oc{background-color:#fe996b;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-xgl1{background-color:#8dd6f8;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-xglb{font-weight:bold;background-color:#8dd6f8;border-color:inherit;text-align:left;vertical-align:top}

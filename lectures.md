@@ -93,7 +93,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">10/06</td>
     <td class="tg-0pky">Lec 8: How-to Queries</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://homes.cs.washington.edu/~suciu/file24_main.pdf">How-to Queries</a><br/>Quiz #1 (during lecture)</td>
+    <td class="tg-0pky">Read: <a href="https://homes.cs.washington.edu/~suciu/file24_main.pdf">Tiresias: The database oracle for how-to queries</a><br/>Quiz #1 (during lecture)</td>
   </tr>
   <tr>
     <td class="tg-0pky">10/08</td>

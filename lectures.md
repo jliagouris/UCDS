@@ -175,7 +175,8 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-0pky">11/12</td>
     <td class="tg-0pky">Lec 17: Distributed System Tracing (cont.)</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815415">Pivot Tracing: Dynamic causal monitoring for distributed systems</a></td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815415">Pivot Tracing: Dynamic causal monitoring for distributed systems </a>
+      <br /> Discussion of Assignment #3</td>
   </tr>
 <tr>
     <td class="tg-0pky">11/17</td>
@@ -188,7 +189,7 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-0pky">Lec 19: Critical Path Analysis</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Read: <a href="https://cs-people.bu.edu/liagos/material/nsdi18-snailtrail.pdf">SnailTrail: Generalizing critical paths for online
-analysis of distributed dataflows</a> <br /> Discussion of Assignment #3</td>
+analysis of distributed dataflows</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/24</td>

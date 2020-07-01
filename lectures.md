@@ -35,10 +35,10 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-x5og">09/08</td>
-    <td class="tg-x5og">Lec 1: Database Concepts</td>
-    <td class="tg-x5og"></td>
-    <td class="tg-x5og">Overview of basic concepts in Part I</td>
+    <td class="tg-x5oc">09/08</td>
+    <td class="tg-ado3">Lec 1: Database Concepts</td>
+    <td class="tg-x5oc"></td>
+    <td class="tg-x5oc">Overview of basic concepts in Part I</td>
   </tr>
   <tr>
     <td class="tg-0pky">09/10</td>
@@ -80,10 +80,10 @@ Functional causality for explaining query answers</a></td>
       Optional: <a href="http://ilpubs.stanford.edu:8090/985/2/cidr_prov_camera2.pdf">Provenance for generalized Map and Reduce workflows</a></td>
   </tr>
   <tr>
-    <td class="tg-x5oc">10/01</td>
-    <td class="tg-ado3">Hacking Day</td>
-    <td class="tg-x5oc"></td>
-    <td class="tg-x5oc">Office hours during lecture time</td>
+    <td class="tg-0pky">10/01</td>
+    <td class="tg-0pky">Hacking Day</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Office hours during lecture time</td>
   </tr>
   <tr>
     <td class="tg-31ua">10/02</td>
@@ -104,10 +104,10 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-31ua">DROP WITHOUT "W"</td>
   </tr>
   <tr>
-    <td class="tg-x5og">10/08</td>
-    <td class="tg-x5og">Lec 9: Machine Learning Concepts</td>
-    <td class="tg-x5og"></td>
-    <td class="tg-x5og">Overview of basic concepts in Part II</td>
+    <td class="tg-x5oc">10/08</td>
+    <td class="tg-ado3">Lec 9: Machine Learning Concepts</td>
+    <td class="tg-x5oc"></td>
+    <td class="tg-x5oc">Overview of basic concepts in Part II</td>
   </tr>
   <tr>
     <td class="tg-0pky">10/13</td>
@@ -140,10 +140,10 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-xgl1"></td>
   </tr>
   <tr>
-    <td class="tg-x5og">10/29</td>
-    <td class="tg-x5og">Lec 14: Distributed Systems Concepts</td>
-    <td class="tg-x5og"></td>
-    <td class="tg-x5og">Overview of basic concepts in Part III</td>
+    <td class="tg-x5oc">10/29</td>
+    <td class="tg-ado3">Lec 14: Distributed Systems Concepts</td>
+    <td class="tg-x5oc"></td>
+    <td class="tg-x5oc">Overview of basic concepts in Part III</td>
   </tr>
   <tr>
     <td class="tg-0pky">11/03</td>
@@ -152,10 +152,10 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815409">Coz: finding code that counts with causal profiling</a></td>
   </tr>
   <tr>
-    <td class="tg-x5oc">11/05</td>
-    <td class="tg-ado3">Hacking Day</td>
-    <td class="tg-x5oc"></td>
-    <td class="tg-x5oc">Office hours during lecture time</td>
+    <td class="tg-0pky">11/05</td>
+    <td class="tg-0pky">Hacking Day</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Office hours during lecture time</td>
   </tr>
   <tr>
     <td class="tg-31ua">11/06</td>
@@ -216,10 +216,10 @@ analysis of distributed dataflows</a></td>
     <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">Better network diagnostics with differential provenance</a></td>
   </tr>
   <tr>
-    <td class="tg-x5oc">12/08</td>
-    <td class="tg-ado3">Hacking Day</td>
-    <td class="tg-x5oc"></td>
-    <td class="tg-x5oc">Office hours during lecture time</td>
+    <td class="tg-0pky">12/08</td>
+    <td class="tg-0pky">Hacking Day</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Office hours during lecture time</td>
   </tr>
   <tr>
     <td class="tg-31ua">12/10</td>

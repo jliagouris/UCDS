@@ -163,13 +163,13 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">11/12</td>
-    <td class="tg-0pky">Lec 17: System Tracing</td>
+    <td class="tg-0pky">Lec 17: Distributed System Tracing</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Read: <a href="https://research.google/pubs/pub36356/">Dapper: A large-scale distributed systems tracing infrastructure</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/17</td>
-    <td class="tg-0pky">Lec 18: System Tracing (cont.)</td>
+    <td class="tg-0pky">Lec 18: Distributed System Tracing (cont.)</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815415">Pivot Tracing: Dynamic causal monitoring for distributed systems</a></td>
   </tr>

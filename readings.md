@@ -4,24 +4,26 @@
 
 Below you can find a list of recommended readings and resources the lectures are based on. Parts of the resources listed here will be given as (non-graded) reading assignments during the course. You should be able to access all of these for free when connected to the campus network. Please contact the instructor if any of the links below is broken.
 
-## Books
+## Books and Surveys
 
 - <a href="http://homepages.inf.ed.ac.uk/jcheney/publications/provdbsurvey.pdf">Provenance in Databases: Why, How, and Where</a>
+- <a href="https://link.springer.com/article/10.1007%2Fs00778-017-0486-1">A survey on provenance: What for? What form? What from?</a>
+- <a href="https://www.rajasambasivan.com/wp-content/uploads/2017/10/sambasivan-cmu-pdl-14-102.pdf">So, you want to trace your distributed system? Key design insights from years of practical experience</a>
 
 ### Data Provenance and Causality
 
 - <a href="https://www.cis.upenn.edu/~sanjeev/papers/icdt01_data_provenance.pdf"> Why and Where: A characterization of data provenance</a>
 - <a href="https://dl.acm.org/doi/abs/10.1145/1559845.1559901"> Why not?</a>
-- <a href="https://dl.acm.org/doi/abs/10.1145/358916.358995">Explaining collaborative filtering recommendations</a>
 - <a href="https://people.cs.umass.edu/~ameli/projects/causality/papers/MUD2010.pdf">Why so? or Why no? Functional causality for explaining query answers</a>
 - <a href="http://www.vldb.org/pvldb/vol9/p1137-chothia.pdf">Explaining outputs in modern data analytics</a>
 - <a href="http://ilpubs.stanford.edu:8090/985/2/cidr_prov_camera2.pdf">Provenance for generalized Map and Reduce workflows</a>
 - <a href="https://homes.cs.washington.edu/~suciu/file24_main.pdf">Tiresias: The database oracle for how-to queries</a>
 
-### Explainable AI
+### Explainable AI and Recommender Systems
 
 - <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">“Why should I trust you?” Explaining the predictions of any classifier</a>
 - <a href="https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf">A unified approach to interpreting model predictions</a>
+- <a href="https://dl.acm.org/doi/abs/10.1145/358916.358995">Explaining collaborative filtering recommendations</a>
 
 ### System Profiling and Performance Analysis
 

@@ -93,9 +93,9 @@ Functional causality for explaining query answers</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">10/06</td>
-    <td class="tg-0pky">Lec 8: How-to Queries</td>
+    <td class="tg-0pky">Lec 8: How-to Queries<br />Quiz #1 (during lecture time)</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://homes.cs.washington.edu/~suciu/file24_main.pdf">Tiresias: The database oracle for how-to queries</a><br/>Quiz #1 (during lecture)</td>
+    <td class="tg-0pky">Read: <a href="https://homes.cs.washington.edu/~suciu/file24_main.pdf">Tiresias: The database oracle for how-to queries</a></td>
   </tr>
   <tr>
     <td class="tg-31ua">10/07</td>
@@ -209,9 +209,9 @@ Functional causality for explaining query answers</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">12/03</td>
-    <td class="tg-0pky">Lec 22: Root-cause Analysis</td>
+    <td class="tg-0pky">Lec 22: Root-cause Analysis <br />Quiz #2 (during lecture time)</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">Better network diagnostics with differential provenance</a><br/>Quiz #2 (during lecture)</td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">Better network diagnostics with differential provenance</a></td>
   </tr>
   <tr>
     <td class="tg-x5oc">12/08</td>

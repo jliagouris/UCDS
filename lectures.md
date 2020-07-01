@@ -12,6 +12,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 
 
 <style type="text/css">
+.tg .tg-x5og{background-color:#87cf7a;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-x5ol{background-color:#b376ee;border-color:inherit;text-align:left;vertical-align:top}  
 .tg .tg-x5oc{background-color:#fe996b;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-xgl1{background-color:#8dd6f8;border-color:inherit;text-align:left;vertical-align:top}
@@ -34,10 +35,10 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">09/08</td>
-    <td class="tg-0pky">Lec 1: Database Concepts</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Overview of basic concepts in Part I</td>
+    <td class="tg-x5og">09/08</td>
+    <td class="tg-x5og">Lec 1: Database Concepts</td>
+    <td class="tg-x5og"></td>
+    <td class="tg-x5og">Overview of basic concepts in Part I</td>
   </tr>
   <tr>
     <td class="tg-0pky">09/10</td>
@@ -102,10 +103,10 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-31ua">DROP WITHOUT "W"</td>
   </tr>
   <tr>
-    <td class="tg-0pky">10/08</td>
-    <td class="tg-0pky">Lec 9: Machine Learning Concepts</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Overview of basic concepts in Part II</td>
+    <td class="tg-x5og">10/08</td>
+    <td class="tg-x5og">Lec 9: Machine Learning Concepts</td>
+    <td class="tg-x5og"></td>
+    <td class="tg-x5og">Overview of basic concepts in Part II</td>
   </tr>
   <tr>
     <td class="tg-0pky">10/13</td>
@@ -138,10 +139,10 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-xgl1"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">10/29</td>
-    <td class="tg-0pky">Lec 14: Distributed Systems Concepts</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Overview of basic concepts in Part III</td>
+    <td class="tg-x5og">10/29</td>
+    <td class="tg-x5og">Lec 14: Distributed Systems Concepts</td>
+    <td class="tg-x5og"></td>
+    <td class="tg-x5og">Overview of basic concepts in Part III</td>
   </tr>
   <tr>
     <td class="tg-0pky">11/03</td>

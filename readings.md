@@ -9,6 +9,7 @@ Below you can find a list of recommended readings and resources the lectures are
 - <a href="http://homepages.inf.ed.ac.uk/jcheney/publications/provdbsurvey.pdf">Provenance in Databases: Why, How, and Where</a>
 - <a href="https://link.springer.com/article/10.1007%2Fs00778-017-0486-1">A survey on provenance: What for? What form? What from?</a>
 - <a href="https://www.rajasambasivan.com/wp-content/uploads/2017/10/sambasivan-cmu-pdl-14-102.pdf">So, you want to trace your distributed system? Key design insights from years of practical experience</a>
+- <a href="http://sites.computer.org/debull/A07dec/susan.pdf">Provenance in Scientific Workflow Systems</a>
 
 ### Data Provenance and Causality
 

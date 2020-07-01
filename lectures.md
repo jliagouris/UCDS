@@ -183,7 +183,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">11/24</td>
     <td class="tg-0pky">Lec 20: Log-based Performance Analysis</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chow.pdf">The Mystery Machine</a></td>
+    <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chow.pdf">The Mystery Machine: End-to-end performance analysis of large-scale internet services</a></td>
   </tr>
   <tr>
     <td class="tg-x5ol">11/26</td>
@@ -195,13 +195,13 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">12/01</td>
     <td class="tg-0pky">Lec 21: Black-Box Performance Analysis</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1165389.945454">Black-box Performance Analysis</a></td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1165389.945454">Performance debugging for distributed systems of black boxes</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">12/03</td>
     <td class="tg-0pky">Lec 22: Differential Provenance</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">Differential Provenance</a><br/>Quiz #2 (during lecture)</td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">Better network diagnostics with differential provenance</a><br/>Quiz #2 (during lecture)</td>
   </tr>
   <tr>
     <td class="tg-x5oc">12/08</td>

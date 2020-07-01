@@ -4,7 +4,7 @@
 
 Below you can find a list of recommended readings and resources the lectures are based on. Parts of the resources listed here will be given as (non-graded) reading assignments during the course. You should be able to access all of these for free when connected to the campus network. Please contact the instructor if any of the links below is broken.
 
-## Books and Surveys
+### Books and Surveys
 
 - <a href="http://homepages.inf.ed.ac.uk/jcheney/publications/provdbsurvey.pdf">Provenance in Databases: Why, How, and Where</a>
 - <a href="https://link.springer.com/article/10.1007%2Fs00778-017-0486-1">A survey on provenance: What for? What form? What from?</a>

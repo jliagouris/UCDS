@@ -82,7 +82,7 @@ Functional causality for explaining query answers</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">10/01</td>
-    <td class="tg-0pky">Hacking Day</td>
+    <td class="tg-0pkt">Hacking Day</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Office hours during lecture time</td>
   </tr>
@@ -154,7 +154,7 @@ Functional causality for explaining query answers</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/05</td>
-    <td class="tg-0pky">Hacking Day</td>
+    <td class="tg-0pkt">Hacking Day</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Office hours during lecture time</td>
   </tr>
@@ -218,7 +218,7 @@ analysis of distributed dataflows</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">12/08</td>
-    <td class="tg-0pky">Hacking Day</td>
+    <td class="tg-0pkt">Hacking Day</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Office hours during lecture time</td>
   </tr>

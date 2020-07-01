@@ -19,6 +19,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 .tg .tg-xglb{background-color:#8dd6f8;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-31ua{background-color:#ffcc67;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pkt{font-style:italic;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-ado3{font-style:italic;background-color:#fe996b;border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
@@ -36,7 +37,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-x5oc">09/08</td>
-    <td class="tg-ado3">Lec 1: Database Concepts</td>
+    <td class="tg-x5oc">Lec 1: Database Concepts</td>
     <td class="tg-x5oc"></td>
     <td class="tg-x5oc">Overview of basic concepts in Part I</td>
   </tr>
@@ -105,7 +106,7 @@ Functional causality for explaining query answers</a></td>
   </tr>
   <tr>
     <td class="tg-x5oc">10/08</td>
-    <td class="tg-ado3">Lec 9: Machine Learning Concepts</td>
+    <td class="tg-x5oc">Lec 9: Machine Learning Concepts</td>
     <td class="tg-x5oc"></td>
     <td class="tg-x5oc">Overview of basic concepts in Part II</td>
   </tr>
@@ -141,7 +142,7 @@ Functional causality for explaining query answers</a></td>
   </tr>
   <tr>
     <td class="tg-x5oc">10/29</td>
-    <td class="tg-ado3">Lec 14: Distributed Systems Concepts</td>
+    <td class="tg-x5oc">Lec 14: Distributed Systems Concepts</td>
     <td class="tg-x5oc"></td>
     <td class="tg-x5oc">Overview of basic concepts in Part III</td>
   </tr>

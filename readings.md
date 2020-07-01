@@ -10,6 +10,7 @@ Below you can find a list of recommended readings and resources the lectures are
 - <a href="https://link.springer.com/article/10.1007%2Fs00778-017-0486-1">A survey on provenance: What for? What form? What from?</a>
 - <a href="https://www.rajasambasivan.com/wp-content/uploads/2017/10/sambasivan-cmu-pdl-14-102.pdf">So, you want to trace your distributed system? Key design insights from years of practical experience</a>
 - <a href="http://sites.computer.org/debull/A07dec/susan.pdf">Provenance in Scientific Workflow Systems</a>
+- <a href="https://arxiv.org/pdf/1909.12072.pdf">Towards Explainable Artificial Intelligence</a>
 
 ### Data Provenance and Causality
 
@@ -30,6 +31,7 @@ Below you can find a list of recommended readings and resources the lectures are
 - <a href="https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf">A unified approach to interpreting model predictions</a>
 - <a href="https://arxiv.org/abs/1811.10154">Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead</a>
 - <a href="https://dl.acm.org/doi/abs/10.1145/358916.358995">Explaining collaborative filtering recommendations</a>
+- <a href="https://dl.acm.org/doi/10.1145/3299869.3300073">DeepBase: Deep inspection of neural networks</a>
 
 ### System Profiling and Performance Analysis
 

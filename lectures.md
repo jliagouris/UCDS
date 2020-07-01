@@ -12,11 +12,11 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 
 
 <style type="text/css">
-.tg .tg-x5og{background-color:#87cf7a;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-x5og{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-x5ol{background-color:#b376ee;border-color:inherit;text-align:left;vertical-align:top}  
 .tg .tg-x5oc{background-color:#fe996b;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-xgl1{background-color:#8dd6f8;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-xglb{font-weight:bold;background-color:#8dd6f8;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-xglb{background-color:#8dd6f8;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-31ua{background-color:#ffcc67;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-ado3{font-style:italic;background-color:#fe996b;border-color:inherit;text-align:left;vertical-align:top}

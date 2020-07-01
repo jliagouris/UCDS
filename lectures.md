@@ -124,7 +124,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">10/20</td>
     <td class="tg-0pky">Lec 11: Interpreting Model Predictions</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Read: <a href="https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions">A unified approach to interpreting model predictions</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">10/22</td>

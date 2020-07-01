@@ -141,7 +141,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">10/29</td>
     <td class="tg-0pky">Lec 14: Distributed Systems Concepts</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Overview of basic concepts in Part II</td>
+    <td class="tg-0pky">Overview of basic concepts in Part III</td>
   </tr>
   <tr>
     <td class="tg-0pky">11/03</td>

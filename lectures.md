@@ -69,7 +69,8 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">09/24</td>
     <td class="tg-0pky">Lec 6: Data Causality</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://people.cs.umass.edu/~ameli/projects/causality/papers/MUD2010.pdf">Functional Causality</a></td>
+    <td class="tg-0pky">Read: <a href="https://people.cs.umass.edu/~ameli/projects/causality/papers/MUD2010.pdf">Why so? or Why no?
+Functional causality for explaining query answers</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">09/29</td>

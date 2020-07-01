@@ -87,7 +87,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-31ua">10/02</td>
     <td class="tg-31ua"></td>
     <td class="tg-31ua"></td>
-    <td class="tg-31ua">Assignment #1 due</td>
+    <td class="tg-31ua">DUE DATE: Assignment #1</td>
   </tr>
   <tr>
     <td class="tg-0pky">10/06</td>
@@ -159,7 +159,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-31ua">11/06</td>
     <td class="tg-31ua"></td>
     <td class="tg-31ua"></td>
-    <td class="tg-31ua">Assignment #2 due <br />
+    <td class="tg-31ua">DUE DATE: Assignment #2 <br />
     DROP WITH "W"</td>
   </tr>
   <tr>
@@ -221,6 +221,6 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-31ua">12/10</td>
     <td class="tg-31ua">Lec 23: Recap</td>
     <td class="tg-31ua"></td>
-    <td class="tg-31ua">Assignment #3 due</td>
+    <td class="tg-31ua">DUE DATE: Assignment #3</td>
   </tr>
 </table>

@@ -185,9 +185,10 @@ Functional causality for explaining query answers</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/19</td>
-    <td class="tg-0pky">Lec 19: Discussion of Assignment #3</td>
+    <td class="tg-0pky">Lec 19: Critical Path Analysis</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://cs-people.bu.edu/liagos/material/nsdi18-snailtrail.pdf">SnailTrail</a></td>
+    <td class="tg-0pky">Read: <a href="https://cs-people.bu.edu/liagos/material/nsdi18-snailtrail.pdf">SnailTrail</a> <br />
+    Discussion of Assignment #3</td>
   </tr>
   <tr>
     <td class="tg-0pky">11/24</td>

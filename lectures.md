@@ -105,7 +105,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">10/13</td>
     <td class="tg-0pky">Lec 10: Explaining Classification Results</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">“Why Should I Trust You?” Explaining the Predictions of Any Classifier</a></td>
+    <td class="tg-0pky">Read: <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">“Why should I trust you?” Explaining the predictions of any classifier</a></td>
   </tr> 
   <tr>
     <td class="tg-x5ol">10/15</td>
@@ -141,7 +141,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">11/03</td>
     <td class="tg-0pky">Lec 15: Causal Profiling</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815409">Coz</a></td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815409">Coz: finding code that counts with causal profiling</a></td>
   </tr>
   <tr>
     <td class="tg-x5oc">11/05</td>
@@ -159,7 +159,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">11/10</td>
     <td class="tg-0pky">Lec 16: Big Data Systems Performance Analysis</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf">COST</a><br/> Read: <a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-ousterhout.pdf">Blocked time Analysis</a></td>
+    <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf">Scalability but at what COST?</a><br/> Read: <a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-ousterhout.pdf">Blocked time Analysis</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/12</td>

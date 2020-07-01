@@ -37,7 +37,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">09/08</td>
     <td class="tg-0pky">Lec 1: Database Concepts</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Overview of basic concepts in Part I</td>
   </tr>
   <tr>
     <td class="tg-0pky">09/10</td>
@@ -105,7 +105,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">10/08</td>
     <td class="tg-0pky">Lec 9: Machine Learning Concepts</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Overview of basic concepts in Part II</td>
   </tr>
   <tr>
     <td class="tg-0pky">10/13</td>
@@ -141,7 +141,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">10/29</td>
     <td class="tg-0pky">Lec 14: Distributed Systems Concepts</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Overview of basic concepts in Part II</td>
   </tr>
   <tr>
     <td class="tg-0pky">11/03</td>

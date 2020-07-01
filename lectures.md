@@ -105,7 +105,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">10/13</td>
     <td class="tg-0pky">Lec 10: Explaining Classification Results</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">LIME</a></td>
+    <td class="tg-0pky">Read: <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">“Why Should I Trust You?” Explaining the Predictions of Any Classifier</a></td>
   </tr> 
   <tr>
     <td class="tg-x5ol">10/15</td>

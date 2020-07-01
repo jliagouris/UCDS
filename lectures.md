@@ -159,7 +159,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">11/10</td>
     <td class="tg-0pky">Lec 16: Big Data Systems Performance Analysis</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf">Scalability but at what COST?</a><br/> Read: <a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-ousterhout.pdf">Blocked time Analysis</a></td>
+    <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf">Scalability! But at what COST?</a><br/> Read: <a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-ousterhout.pdf">Blocked time Analysis</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/12</td>

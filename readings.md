@@ -13,11 +13,26 @@ Below you can find a list of recommended readings and resources the lectures are
 - <a href="https://www.cis.upenn.edu/~sanjeev/papers/icdt01_data_provenance.pdf"> Why and Where: A characterization of data provenance</a>
 - <a href="https://dl.acm.org/doi/abs/10.1145/1559845.1559901"> Why not?</a>
 - <a href="https://dl.acm.org/doi/abs/10.1145/358916.358995">Explaining collaborative filtering recommendations</a>
-- <a href=""> </a>
+- <a href="https://people.cs.umass.edu/~ameli/projects/causality/papers/MUD2010.pdf">Why so? or Why no? Functional causality for explaining query answers</a>
+- <a href="http://www.vldb.org/pvldb/vol9/p1137-chothia.pdf">Explaining outputs in modern data analytics</a>
+- <a href="http://ilpubs.stanford.edu:8090/985/2/cidr_prov_camera2.pdf">Provenance for generalized Map and Reduce workflows</a>
+- <a href="https://homes.cs.washington.edu/~suciu/file24_main.pdf">Tiresias: The database oracle for how-to queries</a>
 
 ### Explainable AI
 
+- <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">“Why should I trust you?” Explaining the predictions of any classifier</a>
+- <a href="https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf">A unified approach to interpreting model predictions</a>
+
 ### System Profiling and Performance Analysis
 
-
-## Blog posts
+- <a href="https://dl.acm.org/doi/abs/10.1145/2815400.2815409">Coz: finding code that counts with causal profiling</a>
+- <a href="https://research.google/pubs/pub36356/">Dapper, a Large-Scale Distributed Systems Tracing Infrastructure</a>
+- <a href="https://www.usenix.org/legacy/event/nsdi07/tech/full_papers/fonseca/fonseca.pdf">X-Trace: A pervasive network tracing framework</a>
+- <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815415">Pivot Tracing: Dynamic causal monitoring for distributed systems </a>
+- <a href="https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf">Scalability! But at what COST? </a>
+- <a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-ousterhout.pdf">Making sense of performance in data analytics frameworks</a>
+- <a href="https://cs-people.bu.edu/liagos/material/nsdi18-snailtrail.pdf">SnailTrail: Generalizing critical paths for online analysis of distributed dataflows</a>
+- <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chow.pdf">The Mystery Machine: End-to-end performance analysis of large-scale internet services</a>
+- <a href="https://dl.acm.org/doi/abs/10.1145/1165389.945454">Performance debugging for distributed systems of black boxes</a>
+- <a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">The good, the bad, and the differences: Better network diagnostics with differential provenance
+</a>

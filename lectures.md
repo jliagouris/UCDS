@@ -96,10 +96,10 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">Read: <a href="https://homes.cs.washington.edu/~suciu/file24_main.pdf">Tiresias: The database oracle for how-to queries</a><br/>Quiz #1 (during lecture)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">10/07</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">DROP WITHOUT "W"</td>
+    <td class="tg-31ua">10/07</td>
+    <td class="tg-31ua"></td>
+    <td class="tg-31ua"></td>
+    <td class="tg-31ua">DROP WITHOUT "W"</td>
   </tr>
   <tr>
     <td class="tg-0pky">10/08</td>

@@ -8,7 +8,7 @@ Below you can find a list of recommended readings and resources the lectures are
 
 - <a href="http://homepages.inf.ed.ac.uk/jcheney/publications/provdbsurvey.pdf">Provenance in Databases: Why, How, and Where</a>
 
-### Data Provenance
+### Data Provenance and Causality
 
 - <a href="https://www.cis.upenn.edu/~sanjeev/papers/icdt01_data_provenance.pdf"> Why and Where: A characterization of data provenance</a>
 - <a href="https://dl.acm.org/doi/abs/10.1145/1559845.1559901"> Why not?</a>

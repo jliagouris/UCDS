@@ -11,7 +11,7 @@ Below you can find a list of recommended readings and resources the lectures are
 - <a href="https://www.rajasambasivan.com/wp-content/uploads/2017/10/sambasivan-cmu-pdl-14-102.pdf">So, you want to trace your distributed system? Key design insights from years of practical experience</a>
 - <a href="http://sites.computer.org/debull/A07dec/susan.pdf">Provenance in Scientific Workflow Systems</a>
 
-### Data Provenance and Causality
+### Data Lineage, Provenance, and Causality
 
 - <a href="https://www.cis.upenn.edu/~sanjeev/papers/icdt01_data_provenance.pdf"> Why and Where: A characterization of data provenance</a>
 - <a href="https://dl.acm.org/doi/abs/10.1145/1559845.1559901"> Why not?</a>
@@ -31,7 +31,7 @@ Below you can find a list of recommended readings and resources the lectures are
 - <a href="https://arxiv.org/abs/1811.10154">Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead</a>
 - <a href="https://dl.acm.org/doi/abs/10.1145/358916.358995">Explaining collaborative filtering recommendations</a>
 
-### System Profiling and Performance Analysis
+### System Profiling, Tracing, and Performance Analysis
 
 - <a href="https://dl.acm.org/doi/abs/10.1145/2815400.2815409">Coz: finding code that counts with causal profiling</a>
 - <a href="https://research.google/pubs/pub36356/">Dapper, a Large-Scale Distributed Systems Tracing Infrastructure</a>

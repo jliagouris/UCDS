@@ -165,7 +165,8 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">11/12</td>
     <td class="tg-0pky">Lec 17: Distributed System Tracing</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://research.google/pubs/pub36356/">Dapper: A large-scale distributed systems tracing infrastructure</a></td>
+    <td class="tg-0pky">Read: <a href="https://research.google/pubs/pub36356/">Dapper: A large-scale distributed systems tracing infrastructure</a>
+    <br /> <a href="https://www.usenix.org/legacy/event/nsdi07/tech/full_papers/fonseca/fonseca.pdf">X-Trace: A pervasive network tracing framework</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/17</td>

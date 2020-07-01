@@ -24,6 +24,7 @@ Below you can find a list of recommended readings and resources the lectures are
 
 - <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">“Why should I trust you?” Explaining the predictions of any classifier</a>
 - <a href="https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf">A unified approach to interpreting model predictions</a>
+- <a href="https://arxiv.org/abs/1811.10154">Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead</a>
 - <a href="https://dl.acm.org/doi/abs/10.1145/358916.358995">Explaining collaborative filtering recommendations</a>
 
 ### System Profiling and Performance Analysis

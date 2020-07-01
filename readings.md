@@ -19,7 +19,9 @@ Below you can find a list of recommended readings and resources the lectures are
 - <a href="http://www.vldb.org/pvldb/vol9/p1137-chothia.pdf">Explaining outputs in modern data analytics</a>
 - <a href="http://ilpubs.stanford.edu:8090/985/2/cidr_prov_camera2.pdf">Provenance for generalized Map and Reduce workflows</a>
 - <a href="https://homes.cs.washington.edu/~suciu/file24_main.pdf">Tiresias: The database oracle for how-to queries</a>
+- <a href="http://www.vldb.org/pvldb/vol11/p719-psallidas.pdf">SMOKE: Fine-grained lineage at interactive speed</a>
 - <a href="http://www.vldb.org/pvldb/vol10/p577-deutch.pdf">Provenance for natural language queries</a>
+- <a href="http://sirrice.github.io/files/papers/subzero-icde13.pdf">SubZero: A fine-grained lineage system for scientific databases</a>
 
 ### Explainable AI and Recommender Systems
 

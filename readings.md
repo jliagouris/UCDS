@@ -22,6 +22,7 @@ Below you can find a list of recommended readings and resources the lectures are
 - <a href="http://www.vldb.org/pvldb/vol11/p719-psallidas.pdf">SMOKE: Fine-grained lineage at interactive speed</a>
 - <a href="http://www.vldb.org/pvldb/vol10/p577-deutch.pdf">Provenance for natural language queries</a>
 - <a href="http://sirrice.github.io/files/papers/subzero-icde13.pdf">SubZero: A fine-grained lineage system for scientific databases</a>
+- <a href="https://people.ucsc.edu/~palvaro/molly.pdf">Lineage-driven fault injection</a>
 
 ### Explainable AI and Recommender Systems
 
@@ -43,3 +44,4 @@ Below you can find a list of recommended readings and resources the lectures are
 - <a href="https://dl.acm.org/doi/abs/10.1145/1165389.945454">Performance debugging for distributed systems of black boxes</a>
 - <a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">The good, the bad, and the differences: Better network diagnostics with differential provenance
 </a>
+- <a href="https://people.ucsc.edu/~palvaro/socc16.pdf">Automating failure testing research at internet scale</a>

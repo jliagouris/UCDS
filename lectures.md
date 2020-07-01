@@ -50,7 +50,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">09/15</td>
-    <td class="tg-0pky">Lec 3: Why-not Provenance</td>
+    <td class="tg-0pky">Lec 3: Explaining Non-Asnwers</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1559845.1559901">Why not?</a></td>
   </tr>

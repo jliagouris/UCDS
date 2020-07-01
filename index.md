@@ -18,8 +18,3 @@ The course focuses on algorithmic techniques and design principles that help use
 
 In the second part, we will focus on techniques that help users understand system performance. We will discuss traditional and causal profiling, end-to-end tracing, root-cause analysis, and invariant checking techniques.
 
-## Grading Scheme
-
-### Assignments
-
-### Exam

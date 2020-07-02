@@ -33,7 +33,7 @@ During the semester, we will discuss the following topics:
   - Root-cause analysis
 
 ## Course Objectives
-The course aims at training students in fundamental and emerging techniques that help users understand the behavior of data processing systems.
+The course aims at training students in fundamental and emerging techniques that help humans understand the behavior of data processing systems.
 The course is split in three parts. In Part I, we will discuss concepts of data provenance and causality. 
 In Part II, we will discuss popular AI techniques for explaining classifications and interpreting model predictions. 
 In Part III, we will discuss state-of-the-art profiling, tracing, and performance analysis techniques for distributed systems.

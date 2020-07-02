@@ -136,7 +136,7 @@ Functional causality for explaining query answers</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">10/22</td>
-    <td class="tg-0pky">Lec 12: Discussion of Assignment #2 <br />Quiz #3 (during lecture) </td>
+    <td class="tg-0pky">Lec 12: Discussion of Assignment #2 <br />Quiz #2 (during lecture) </td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>

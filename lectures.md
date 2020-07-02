@@ -1,7 +1,5 @@
 ## [<< back](./index.html)
 
-***Note**: This schedule is tentative.
-
 ### Special Dates
 Make sure to become familiar with the [Official Semester Dates](https://www.bu.edu/reg/calendars/semester/). Some of the critical Semester Dates are:
 - The Last Day to DROP Clases (without a 'W' grade) October 7, 2020.

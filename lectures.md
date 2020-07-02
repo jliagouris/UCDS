@@ -110,12 +110,6 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-x5oc"></td>
     <td class="tg-x5oc">Overview of basic concepts in Part II</td>
   </tr>
-    <tr>
-    <td class="tg-31ua">10/09</td>
-    <td class="tg-31ua"></td>
-    <td class="tg-31ua"></td>
-    <td class="tg-31ua">DUE DATE: Assignment #2</td>
-  </tr>
   <tr>
     <td class="tg-0pky">10/13</td>
     <td class="tg-0pky">Lec 10: Explaining Classification Results</td>
@@ -127,6 +121,12 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-x5ol">No Lecture</td>
     <td class="tg-x5ol"></td>
     <td class="tg-x5ol">Substitute Monday</td>
+  </tr>
+  <tr>
+    <td class="tg-31ua">10/16</td>
+    <td class="tg-31ua"></td>
+    <td class="tg-31ua"></td>
+    <td class="tg-31ua">DUE DATE: Assignment #2</td>
   </tr>
   <tr>
     <td class="tg-0pky">10/20</td>

@@ -33,8 +33,8 @@ During the semester, we will discuss the following topics:
 
 ## Course Objectives
 The course aims at training students in fundamental and emerging techniques that help humans understand the behavior of data processing systems.
-The course is divided in three parts. In Part I, we will discuss concepts of data provenance and causality. 
-In Part II, we will discuss popular AI techniques for explaining classifications and interpreting model predictions. 
+The course is divided in three parts. In Part I, we will discuss concepts of database provenance and causality that provide insights into query results. 
+In Part II, we will discuss relevant AI techniques for explaining classifications and interpreting model predictions. 
 In Part III, we will discuss state-of-the-art profiling, tracing, and performance analysis techniques for distributed systems.
 
 At the end of the course, successful students will have a solid understanding of:

@@ -50,20 +50,20 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">09/15</td>
-    <td class="tg-0pky">Lec 4: Introduction to Ray</td>
+    <td class="tg-0pky">Lec 3: Introduction to Ray</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/osdi18-moritz.pdf">Ray: A Distributed Framework for Emerging AI Applications</a>
     <br /> (Ray is the system we will be using for the assignments) </td>
   </tr>
   <tr>
     <td class="tg-0pky">09/17</td>
-    <td class="tg-0pky">Lec 5: Discussion of Assignment #1</td>
+    <td class="tg-0pky">Lec 4: Discussion of Assignment #1</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/358916.358995">Explaining Collaborative Filtering Recommendations</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">09/22</td>
-    <td class="tg-0pky">Lec 3: Explaining Non-Asnwers</td>
+    <td class="tg-0pky">Lec 5: Explaining Non-Asnwers</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1559845.1559901">Why not?</a></td>
   </tr>

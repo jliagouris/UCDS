@@ -20,7 +20,7 @@ To successfully complete the assignments, always make sure to read the relevant 
 - [Ray documentation](https://docs.ray.io/en/latest/)
 
 ### Due dates
-There will be three (4) assignments during the semester, with availability and due dates as shown below:
+There will be four (4) assignments during the semester, with availability and due dates as shown below:
 
 | Assignment | Available | Due | Time |
 | :------: | :-----: | :---: | 

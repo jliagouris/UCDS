@@ -7,7 +7,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 - The Last Day to DROP Clases (without a 'W' grade) October 7, 2020.
 - The Last Day to DROP Classes (with a 'W' grade) November 6, 2020
 
-## Attendance
+### Attendance
 Students are expected to attend (even virtually) each lecture. 
 For those who cannot attend, **all lectures will be prerecorded and the videos will be posted on Piazza**.
 Ultimately, students are responsible for their own learning, and thus for keeping up with the material.

@@ -1,6 +1,6 @@
 ## [<< back](./index.html)
 
-# Course Syllabus: CS591 L1 User-centric Data Systems (Fall 2020)
+# Course Syllabus: CS 591 L1 "User-centric Data Systems" (Fall 2020)
 
 **Instructor Name**: John Liagouris  
 **Office Location**: Hariri Institute for Computing, Room 163 <br />

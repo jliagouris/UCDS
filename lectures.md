@@ -114,7 +114,7 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-31ua">10/09</td>
     <td class="tg-31ua"></td>
     <td class="tg-31ua"></td>
-    <td class="tg-31ua">DUE DATE: Assignment #1</td>
+    <td class="tg-31ua">DUE DATE: Assignment #2</td>
   </tr>
   <tr>
     <td class="tg-0pky">10/13</td>
@@ -136,7 +136,7 @@ Functional causality for explaining query answers</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">10/22</td>
-    <td class="tg-0pky">Lec 12: Discussion of Assignment #2</td>
+    <td class="tg-0pky">Lec 12: Discussion of Assignment #2 <br />Quiz #3 (during lecture) </td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -168,7 +168,7 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-31ua">11/06</td>
     <td class="tg-31ua"></td>
     <td class="tg-31ua"></td>
-    <td class="tg-31ua">DUE DATE: Assignment #2 <br />
+    <td class="tg-31ua">DUE DATE: Assignment #3 <br />
     DROP WITH "W"</td>
   </tr>
   <tr>
@@ -218,7 +218,7 @@ analysis of distributed dataflows</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">12/03</td>
-    <td class="tg-0pky">Lec 22: Root-cause Analysis <br />Quiz #2 (during lecture)</td>
+    <td class="tg-0pky">Lec 22: Root-cause Analysis <br />Quiz #3 (during lecture)</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">Better network diagnostics with differential provenance</a></td>
   </tr>
@@ -232,6 +232,6 @@ analysis of distributed dataflows</a></td>
     <td class="tg-31ua">12/10</td>
     <td class="tg-31ua">Lec 23: Recap</td>
     <td class="tg-31ua"></td>
-    <td class="tg-31ua">DUE DATE: Assignment #3</td>
+    <td class="tg-31ua">DUE DATE: Assignment #4</td>
   </tr>
 </table>

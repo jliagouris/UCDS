@@ -52,7 +52,8 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky">09/15</td>
     <td class="tg-0pky">Lec 4: Introduction to Ray</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/osdi18-moritz.pdf">Ray: A Distributed Framework for Emerging AI Applications</a></td>
+    <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/osdi18-moritz.pdf">Ray: A Distributed Framework for Emerging AI Applications</a>
+    <br /> (Ray is the system we will be using for the assignments) </td>
   </tr>
   <tr>
     <td class="tg-0pky">09/17</td>

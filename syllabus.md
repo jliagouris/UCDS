@@ -4,7 +4,6 @@
 
 **Instructor Name**: John Liagouris  
 **Office Location**: Hariri Institute for Computing, Room 163
-**Contact Information**: liagos@bu.edu  
 **Course Time & Location**:	Tue/Thu 9:30-10:45, CAS B20  
 **Office Hours**: TBD  
 

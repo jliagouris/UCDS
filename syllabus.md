@@ -33,7 +33,7 @@ During the semester, we will discuss the following topics:
 
 ## Course Objectives
 The course aims at training students in fundamental and emerging techniques that help humans understand the behavior of data processing systems.
-The course is split in three parts. In Part I, we will discuss concepts of data provenance and causality. 
+The course is divided in three parts. In Part I, we will discuss concepts of data provenance and causality. 
 In Part II, we will discuss popular AI techniques for explaining classifications and interpreting model predictions. 
 In Part III, we will discuss state-of-the-art profiling, tracing, and performance analysis techniques for distributed systems.
 
@@ -74,9 +74,7 @@ For those who cannot attend, **all lectures will be prerecorded and the videos w
 Ultimately, students are responsible for their own learning, and thus for keeping up with the material.
 
 ## Prerequisites
-
-To attend this course, students must have strong programming skills (C/Python) and basic knowledge of data structures, algorithms, 
-and computer systems (CS 112, CS 210 or equivalent experience).
+The course will be self-contained. Each part (I, II, III) will have an introductory lecture explaining the basic concepts in the related research papers. Students must have strong programming skills (C/Python) and basic knowledge of data structures, algorithms, and computer systems (CS 112, CS 210 or equivalent experience).
 
 ## Academic Conduct
 All assignments must be completed individually. 

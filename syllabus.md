@@ -51,6 +51,11 @@ You should be able to access all of these for free when connected to the campus 
 ## Class Schedule
 Please see the [schedule on the course website](https://jliagouris.github.io/UCDS20/lectures.html).
 
+## Attendance
+Students are expected to attend (even virtually) each lecture. 
+For those who cannot attend, **all lectures will be prerecorded and the videos will be posted on Piazza**.
+Ultimately, students are responsible for their own learning, and thus for keeping up with the material.
+
 ## Grading Scheme
 The course consists of lectures, exercises, and a final semester project. Your final grade will be determined as follows:
 - **3 in-class quizzes (15%)**:
@@ -67,11 +72,6 @@ The course consists of lectures, exercises, and a final semester project. Your f
 ## Assignment Submission
 Solutions to assignments and the final exam will be submitted via Gradescope. 
 Students who submit assignments late will only be eligible for up to **50% of the original score**. 
-
-## Attendance
-Students are expected to attend (even virtually) each lecture. 
-For those who cannot attend, **all lectures will be prerecorded and the videos will be posted on Piazza**.
-Ultimately, students are responsible for their own learning, and thus for keeping up with the material.
 
 ## Prerequisites
 The course will be self-contained. Each one of the three parts will have an introductory lecture on the necessary concepts to understand the related research papers. Students must have strong programming skills (C/Python) and basic knowledge of data structures, algorithms, and computer systems (CS 112, CS 210 or equivalent experience).

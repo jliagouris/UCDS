@@ -24,6 +24,7 @@ Below you can find a list of recommended readings and resources the lectures are
 - <a href="http://www.vldb.org/pvldb/vol10/p577-deutch.pdf">Provenance for natural language queries</a>
 - <a href="http://sirrice.github.io/files/papers/subzero-icde13.pdf">SubZero: A fine-grained lineage system for scientific databases</a>
 - <a href="https://people.ucsc.edu/~palvaro/molly.pdf">Lineage-driven fault injection</a>
+- <a href="http://www.vldb.org/pvldb/vol9/p216-interlandi.pdf"> Titian: Data provenance support in Spark</a>
 
 ### Explainable AI and Recommender Systems
 

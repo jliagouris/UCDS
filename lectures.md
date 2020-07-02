@@ -50,21 +50,21 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
   </tr>
   <tr>
     <td class="tg-0pky">09/15</td>
-    <td class="tg-0pky">Lec 3: Explaining Non-Asnwers</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1559845.1559901">Why not?</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">09/17</td>
     <td class="tg-0pky">Lec 4: Introduction to Ray</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/osdi18-moritz.pdf">Ray: A Distributed Framework for Emerging AI Applications</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">09/22</td>
+    <td class="tg-0pky">09/17</td>
     <td class="tg-0pky">Lec 5: Discussion of Assignment #1</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/358916.358995">Explaining Collaborative Filtering Recommendations</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">09/22</td>
+    <td class="tg-0pky">Lec 3: Explaining Non-Asnwers</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1559845.1559901">Why not?</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">09/24</td>
@@ -72,6 +72,12 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Read: <a href="https://people.cs.umass.edu/~ameli/projects/causality/papers/MUD2010.pdf">Why so? or Why no?
 Functional causality for explaining query answers</a></td>
+  </tr>
+  <tr>
+    <td class="tg-31ua">09/25</td>
+    <td class="tg-31ua"></td>
+    <td class="tg-31ua"></td>
+    <td class="tg-31ua">DUE DATE: Assignment #1</td>
   </tr>
   <tr>
     <td class="tg-0pky">09/29</td>
@@ -82,21 +88,15 @@ Functional causality for explaining query answers</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">10/01</td>
-    <td class="tg-0pkt">Hacking Day</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Office hours during lecture time</td>
-  </tr>
-  <tr>
-    <td class="tg-31ua">10/02</td>
-    <td class="tg-31ua"></td>
-    <td class="tg-31ua"></td>
-    <td class="tg-31ua">DUE DATE: Assignment #1</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">10/06</td>
     <td class="tg-0pky">Lec 8: How-to Queries<br />Quiz #1 (during lecture)</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Read: <a href="https://homes.cs.washington.edu/~suciu/file24_main.pdf">Tiresias: The database oracle for how-to queries</a></td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">10/06</td>
+    <td class="tg-0pkt">Hacking Day</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Office hours during lecture time</td>
   </tr>
   <tr>
     <td class="tg-31ua">10/07</td>
@@ -109,6 +109,12 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-x5oc">Lec 9: Machine Learning Concepts</td>
     <td class="tg-x5oc"></td>
     <td class="tg-x5oc">Overview of basic concepts in Part II</td>
+  </tr>
+    <tr>
+    <td class="tg-31ua">10/09</td>
+    <td class="tg-31ua"></td>
+    <td class="tg-31ua"></td>
+    <td class="tg-31ua">DUE DATE: Assignment #1</td>
   </tr>
   <tr>
     <td class="tg-0pky">10/13</td>

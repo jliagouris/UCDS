@@ -74,7 +74,7 @@ For those who cannot attend, **all lectures will be prerecorded and the videos w
 Ultimately, students are responsible for their own learning, and thus for keeping up with the material.
 
 ## Prerequisites
-The course will be self-contained. Each part (I, II, III) will have an introductory lecture explaining the basic concepts in the related research papers. Students must have strong programming skills (C/Python) and basic knowledge of data structures, algorithms, and computer systems (CS 112, CS 210 or equivalent experience).
+The course will be self-contained. Each one of the three parts will have an introductory lecture on the necessary concepts to understand the related research papers. Students must have strong programming skills (C/Python) and basic knowledge of data structures, algorithms, and computer systems (CS 112, CS 210 or equivalent experience).
 
 ## Academic Conduct
 All assignments must be completed individually. 

@@ -17,7 +17,7 @@ The class will include lectures, readings, quizzes, programming assignments, a f
 During the semester, we will discuss the following topics:
 
 - Data provenance
-  - Lineage, Why, How, and Where provenance
+  - Lineage, Why, How and Where provenance
   - Why-not provenance
   - Database causality and responsibility
   - Backward tracing

@@ -39,7 +39,7 @@ In Part III, we will discuss state-of-the-art profiling, tracing, and performanc
 
 At the end of the course, successful students will have a solid understanding of:
 - techniques that provide insights into the functionality of databases, machine learning models, and distributed systems
-- the challenges and trade-offs one needs to consider when designing systems for explainability and performance clarity
+- the challenges and trade-offs one needs to consider when designing systems and applications for explainability and performance clarity
 
 ## Course Materials
 There is no required textbook for this class. After each lecture, slides will be published on the course website, 

@@ -59,7 +59,7 @@ Ultimately, students are responsible for their own learning, and thus for keepin
 ## Grading Scheme
 The course consists of lectures, exercises, and a final semester project. Your final grade will be determined as follows:
 - **3 in-class quizzes (15%)**:
-  - Each quiz contributes 5% to the final grade.
+  - Each 15-min quiz contributes 5% to the final grade.
 - **4 hands-on assignments (40%)**:
   - Assignment #1 contributes 10%.
   - Assignment #2 contributes 10%.

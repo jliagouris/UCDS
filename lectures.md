@@ -64,7 +64,7 @@ Ultimately, students are responsible for their own learning, and thus for keepin
   </tr>
   <tr>
     <td class="tg-0pky">09/22</td>
-    <td class="tg-0pky">Lec 5: Explaining Non-Asnwers</td>
+    <td class="tg-0pky">Lec 5: Explaining Non-Answers</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1559845.1559901">Why not?</a></td>
   </tr>

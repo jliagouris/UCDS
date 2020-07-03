@@ -21,7 +21,7 @@ During the semester, we will discuss the following topics:
   - Why-not provenance
   - Database causality and responsibility
   - Backward tracing
-- ML interpretability
+- Model interpretability
   - Explaining classification results
   - Interpretting model predictions
 - System performance analysis

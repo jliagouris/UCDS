@@ -46,8 +46,7 @@ Ultimately, students are responsible for their own learning, and thus for keepin
     <td class="tg-0pky">09/10</td>
     <td class="tg-0pky">Lec 2: Data Provenance</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://sigmodrecord.org/publications/sigmodRecord/1809/pdfs/03_Principles_Buneman.pdf">Provenance: What's Next?</a>
-    <br /> Optional: <a href="https://www.cis.upenn.edu/~sanjeev/papers/icdt01_data_provenance.pdf">Why and Where: A characterization of data provenance</a></td>
+    <td class="tg-0pky">Read: <a href="https://sigmodrecord.org/publications/sigmodRecord/1809/pdfs/03_Principles_Buneman.pdf">Provenance: What's Next?</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">09/15</td>

@@ -2,7 +2,7 @@
 
 # Hands-on assignments
 
-The hands-on assignments include programming exercises in [Ray](https://ray.io), a distributed data processing system.
+The hands-on assignments include programming exercises in [Ray](https://ray.io), a distributed data processing framework.
 
 ### Software requirements
 You can develop and execute Ray applications on Linux and macOS, while support for Windows is limited. 

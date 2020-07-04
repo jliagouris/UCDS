@@ -38,7 +38,7 @@ In Part II, we will discuss relevant AI techniques for explaining classification
 In Part III, we will discuss state-of-the-art profiling, tracing, and performance analysis techniques for distributed systems.
 
 At the end of the course, successful students will have a solid understanding of:
-- techniques that provide insights into the functionality of databases, machine learning models, and distributed systems
+- techniques that provide insights into data processing pipelines
 - the challenges and trade-offs one needs to consider when designing systems for explainability and performance clarity
 
 ## Course Materials

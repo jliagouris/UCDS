@@ -32,13 +32,13 @@ During the semester, we will discuss the following topics:
   - Root-cause analysis
 
 ## Course Objectives
-The course aims at training students in fundamental and emerging techniques that help humans understand data processing pipelines.
+The course aims at training students in fundamental and emerging techniques that help humans understand complex data processing pipelines.
 The course is divided in three parts. In Part I, we will discuss concepts of database provenance and causality that provide insights into query results. 
 In Part II, we will discuss relevant AI techniques for explaining classifications and interpreting model predictions. 
 In Part III, we will discuss state-of-the-art profiling, tracing, and performance analysis techniques for distributed systems.
 
 At the end of the course, successful students will have a solid understanding of:
-- techniques that provide insights into complex data processing pipelines
+- techniques that provide insights into the outputs and performance of data processing pipelines
 - the challenges and trade-offs one needs to consider when designing systems for explainability and performance clarity
 
 ## Course Materials

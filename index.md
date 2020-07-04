@@ -14,9 +14,9 @@ Welcome to **CS 591 L1: User-centric Data Systems**, Fall 2020
 
 Understanding the behavior of data systems is hard. Questions like “Why does the system return certain results?” and “Why is the execution slow?” arise too often in data analytics. Answering such questions is still a cumbersome task that requires considerable amount of resources as well as manual work by experts.
 
-The course focuses on algorithmic techniques and design principles that help humans get meaningful insights into the functionality of data processing systems and applications. In the first two parts of the course, we will discuss methods for explaining outputs, including approaches from databases, recommendation engines, and interpretable machine learning.
+The course focuses on algorithmic techniques and design principles that help humans get meaningful insights into complex data processing processing pipelines. In the first two parts of the course, we will discuss methods for explaining outputs, including approaches from databases, recommendation engines, and interpretable machine learning.
 
-In the third part, we will focus on techniques that help users understand system performance. We will discuss traditional and causal profiling, end-to-end tracing, root-cause analysis, and invariant checking techniques.
+In the third part, we will focus on techniques that help users understand execution performance. We will discuss traditional and causal profiling, end-to-end tracing, root-cause analysis, and invariant checking techniques.
 
 ## Prerequisites
 The course will be self-contained. Each one of the three parts will have an introductory lecture on the necessary concepts to understand the related research papers. Students must have strong programming skills (C/Python) and basic knowledge of data structures, algorithms, and computer systems (CS 112, CS 210 or equivalent experience).

@@ -54,7 +54,7 @@ Please see the [schedule on the course website](https://jliagouris.github.io/UCD
 ## Attendance
 Students are expected to attend (even virtually) each lecture. 
 For those who cannot attend, **all lectures will be prerecorded and the videos will be posted on Piazza**.
-Ultimately, students are responsible for their own learning, and thus for keeping up with the material.
+Ultimately, students are responsible for their own learning and, thus, for keeping up with the material.
 
 ## Grading Scheme
 The course consists of lectures, exercises, and a final semester project. Your final grade will be determined as follows:

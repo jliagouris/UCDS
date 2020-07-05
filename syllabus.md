@@ -69,7 +69,7 @@ The course consists of lectures, exercises, and a final semester project. Your f
 - **Final exam (45%)**:
   - Take-home exam over a 24-hour period with open-ended questions.
   
-Students will have the option to do either the 4th assignment or a final project. You will have to propose your own idea for the final project and get the instructor's approval. **Project prosals must be submitted by October 15th**. In case you choose to do a final project, your final grade will be determined as follows:
+Students will have the option to do either the 4th assignment or a final project. You will have to propose your own idea for the final project and get the instructor's approval. **Project proposals must be submitted by October 15th**. In case you choose to do a final project, your grade will be determined as follows:
 - **3 in-class quizzes (15%)**:
   - Each 15-min quiz contributes 5% to the final grade.
 - **4 hands-on assignments (30%)**:

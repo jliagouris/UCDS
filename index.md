@@ -18,5 +18,9 @@ The course focuses on algorithmic techniques and design principles that help hum
 
 In the third part, we will focus on techniques that help users understand execution performance. We will discuss traditional and causal profiling, end-to-end tracing, root-cause analysis, and invariant checking techniques.
 
+At the end of the course, successful students will have a solid understanding of:
+- techniques that help humans understand the outputs and performance of data processing pipelines
+- the challenges and trade-offs one needs to consider when designing systems with a focus on explainability and performance clarity
+
 ## Prerequisites
 The course will be self-contained. Each one of the three parts will have an introductory lecture on the necessary concepts to understand the related research papers. Students must have strong programming skills (C/Python) and basic knowledge of data structures, algorithms, and computer systems (CS 112, CS 210 or equivalent experience).

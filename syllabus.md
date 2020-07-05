@@ -80,7 +80,7 @@ Students will have the option to do either the 4th assignment or a final project
 - **Final exam (35%)**:
   - Take-home exam over a 24-hour period with open-ended questions.
 - **Final project (20%)**:
-  - To be considered complete, the project code deliverables must be accompanied by a detailed report.
+  - To be considered complete, the project code deliverables must be accompanied by a detailed report (at most 15 pages).
   
 ## Assignment Submission
 Assignments and final exam solutions will be submitted via Gradescope. 

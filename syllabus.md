@@ -70,7 +70,7 @@ The course consists of lectures, exercises, and a final semester project. Your f
   - Take-home exam over a 24-hour period with open-ended questions.
 
 ## Assignment Submission
-Solutions to assignments and the final exam will be submitted via Gradescope. 
+Assignments and final exam solutions will be submitted via Gradescope. 
 Students who submit assignments late will only be eligible for up to **50% of the original score**. 
 
 ## Prerequisites

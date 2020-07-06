@@ -77,10 +77,10 @@ Students will have the option to do either the 4th assignment or a final project
   - Assignment #2 contributes 10%.
   - Assignment #3 contributes 10%.
   - To be considered complete, code deliverables must be accompanied by sufficient documentation.
-- **Final exam (35%)**:
+- **Final exam (30%)**:
   - Take-home exam over a 24-hour period with open-ended questions.
-- **Final project (20%)**:
-  - To be considered complete, project deliverables must be accompanied by a detailed report (at most 15 pages).
+- **Final project (25%)**:
+  - To be considered complete, project deliverables must be accompanied by a report (at most 15 pages).
   
 ## Late Submission
 Assignments and final exam solutions will be submitted via Gradescope. 

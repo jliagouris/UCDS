@@ -82,7 +82,7 @@ Students will have the option to do either the 4th assignment or a final project
 - **Final project (20%)**:
   - To be considered complete, the project code deliverables must be accompanied by a detailed report (at most 15 pages).
   
-## Assignment Submission
+## Late Submission
 Assignments and final exam solutions will be submitted via Gradescope. 
 Students who submit assignments late will only be eligible for up to **50% of the original score**. 
 

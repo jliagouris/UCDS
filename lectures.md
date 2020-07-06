@@ -233,6 +233,6 @@ analysis of distributed dataflows</a></td>
     <td class="tg-31ua">12/10</td>
     <td class="tg-31ua">Lec 23: Recap</td>
     <td class="tg-31ua"></td>
-    <td class="tg-31ua">DUE DATE: Assignment #4</td>
+    <td class="tg-31ua">DUE DATE: Assignment #4/Final Project</td>
   </tr>
 </table>

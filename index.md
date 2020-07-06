@@ -16,7 +16,7 @@ Understanding the behavior of data processing systems is hard. Questions like â€
 
 The course focuses on algorithmic techniques and design principles that help humans get meaningful insights into complex data processing pipelines. In the first two parts of the course, we will discuss methods for explaining outputs, including approaches from databases, recommendation engines, and interpretable machine learning.
 
-In the third part, we will focus on techniques that help users understand execution performance. We will discuss traditional and causal profiling, end-to-end tracing, root-cause analysis, and invariant checking techniques.
+In the third part, we will focus on techniques that help users understand execution performance. We will discuss traditional and causal profiling, end-to-end tracing, critical path analysis, and root-cause analysis.
 
 At the end of the course, successful students will have a solid understanding of:
 - techniques that provide insights into the outputs and performance of data processing pipelines

@@ -127,7 +127,7 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-31ua">10/16</td>
     <td class="tg-31ua"></td>
     <td class="tg-31ua"></td>
-    <td class="tg-31ua">DUE DATE: Assignment #2</td>
+    <td class="tg-31ua">DUE DATE: Assignment #2 <br /> DUE DATE: Project Proposal (optional) </td>
   </tr>
   <tr>
     <td class="tg-0pky">10/20</td>

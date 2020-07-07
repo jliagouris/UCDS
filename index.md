@@ -1,4 +1,4 @@
-Welcome to **CS 591 L1: User-centric Data Systems**, Fall 2020
+Welcome to **CS 591 L1: User-centric Systems for Data Science**, Fall 2020
 
 ## [Lectures](./lectures.html) \| [Assignments](./assignments.html) \| [Readings](./readings.html) \| [Piazza](https://piazza.com/bu/spring2020/cs591l1/home)
 

@@ -115,7 +115,8 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-0pky">10/13</td>
     <td class="tg-0pky">Lec 10: Explaining Classification Results</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">“Why should I trust you?” Explaining the predictions of any classifier</a></td>
+    <td class="tg-0pky"> Watch: <a href="https://channel9.msdn.com/Shows/AI-Show/The-Science-Behind-InterpretML-LIME">LIME</a> <br /> 
+      Optional: <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">“Why should I trust you?” Explaining the predictions of any classifier</a></td>
   </tr> 
   <tr>
     <td class="tg-x5ol">10/15</td>
@@ -133,7 +134,8 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-0pky">10/20</td>
     <td class="tg-0pky">Lec 11: Interpreting Model Predictions</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions">A unified approach to interpreting model predictions</a></td>
+    <td class="tg-0pky">Watch: <a href="https://channel9.msdn.com/Shows/AI-Show/The-Science-Behind-InterpretML-SHAP">SHAP</a> <br />
+      Optional: <a href="https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions">A unified approach to interpreting model predictions</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">10/22</td>

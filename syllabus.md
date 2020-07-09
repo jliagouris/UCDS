@@ -13,7 +13,7 @@
 
 ## Course Description
 CS 591 L1 will be taught in the style of a graduate course that requires reading research papers and independent exploration of the material.
-The class will include lectures, readings, quizzes, programming assignments, a final exam, and an optional final project.
+The class will include lectures, readings, quizzes, programming assignments, a final (take-home) exam, and an optional final project.
 During the semester, we will discuss the following topics:
 
 - Data provenance

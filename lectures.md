@@ -159,7 +159,8 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-0pky">11/03</td>
     <td class="tg-0pky">Lec 15: Causal Profiling</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815409">Coz: finding code that counts with causal profiling</a></td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815409">Coz: finding code that counts with causal profiling</a> <br /> 
+      Optional: <a href="https://www.youtube.com/watch?v=jE0V-p1odPg"> SOSP'15 talk</a> </td>
   </tr>
   <tr>
     <td class="tg-0pky">11/05</td>

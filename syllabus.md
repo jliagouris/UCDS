@@ -67,15 +67,15 @@ The course consists of lectures, quizzes, and hands-on assignments. Your final g
   - Assignment #4 contributes 30%.
   - To be considered complete, code deliverables must be accompanied by sufficient documentation.
   
-Students will have the option to do either the 4th assignment or a final project. You will have to propose your own idea for the final project and get the instructor's approval. **Project proposals must be submitted by October 16th**. In case you choose to do a final project, your grade will be determined as follows:
+Students will have the option to do either the fourth assignment or a final project. You will have to propose your own idea for the final project and get the instructor's approval. **Project proposals must be submitted by October 16th**. In case you choose to do a final project, your grade will be determined as follows:
 - **3 in-class quizzes (15%)**:
   - Each 20-min quiz contributes 5% to the final grade.
-- **3 hands-on assignments (40%)**:
-  - Assignment #1 contributes 10%.
+- **3 hands-on assignments (55%)**:
+  - Assignment #1 contributes 15%.
   - Assignment #2 contributes 20%.
-  - Assignment #3 contributes 10%.
+  - Assignment #3 contributes 20%.
   - To be considered complete, code deliverables must be accompanied by sufficient documentation.
-- **Final project (45%)**:
+- **Final project (30%)**:
   - To be considered complete, project deliverables must be accompanied by a report (max 10 pages).
   
 ## Late Submission

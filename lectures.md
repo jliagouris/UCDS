@@ -75,29 +75,29 @@ Ultimately, students are responsible for their own learning, and thus for keepin
 Functional causality for explaining query answers</a></td>
   </tr>
   <tr>
-    <td class="tg-31ua">09/25</td>
-    <td class="tg-31ua"></td>
-    <td class="tg-31ua"></td>
-    <td class="tg-31ua">DUE DATE: Assignment #1</td>
-  </tr>
-  <tr>
     <td class="tg-0pky">09/29</td>
     <td class="tg-0pky">Lec 7: Dataflow Provenance</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Read: <a href="http://www.vldb.org/pvldb/vol9/p1137-chothia.pdf">Explaining outputs in modern data analytics</a><br />
       Optional: <a href="http://ilpubs.stanford.edu:8090/985/2/cidr_prov_camera2.pdf">Provenance for generalized Map and Reduce workflows</a></td>
   </tr>
-  <tr>
-    <td class="tg-0pky">10/01</td>
-    <td class="tg-0pky">Lec 8: How-to Queries<br />Quiz #1 (during lecture)</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Read: <a href="https://homes.cs.washington.edu/~suciu/file24_main.pdf">Tiresias: The database oracle for how-to queries</a></td>
-  </tr>
     <tr>
-    <td class="tg-0pky">10/06</td>
+    <td class="tg-0pky">10/01</td>
     <td class="tg-0pkt">Hacking Day</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Office hours during lecture time</td>
+  </tr>
+  <tr>
+    <td class="tg-31ua">10/02</td>
+    <td class="tg-31ua"></td>
+    <td class="tg-31ua"></td>
+    <td class="tg-31ua">DUE DATE: Assignment #1</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10/06</td>
+    <td class="tg-0pky">Lec 8: How-to Queries<br />Quiz #1 (during lecture)</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Read: <a href="https://homes.cs.washington.edu/~suciu/file24_main.pdf">Tiresias: The database oracle for how-to queries</a></td>
   </tr>
   <tr>
     <td class="tg-31ua">10/07</td>
@@ -128,7 +128,7 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-31ua">10/16</td>
     <td class="tg-31ua"></td>
     <td class="tg-31ua"></td>
-    <td class="tg-31ua">DUE DATE: Assignment #2 <br /> DUE DATE: Project Proposal (optional) </td>
+    <td class="tg-31ua">DUE DATE: Project Proposal (optional) </td>
   </tr>
   <tr>
     <td class="tg-0pky">10/20</td>
@@ -142,6 +142,12 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-0pky">Lec 12: Discussion of Assignment #2 <br />Quiz #2 (during lecture) </td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-31ua">10/23</td>
+    <td class="tg-31ua"></td>
+    <td class="tg-31ua"></td>
+    <td class="tg-31ua">DUE DATE: Assignment #2</td>
   </tr>
   <tr>
     <td class="tg-xgl1">10/27</td>

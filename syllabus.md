@@ -60,26 +60,26 @@ Ultimately, students are responsible for their own learning and, thus, for keepi
 The course consists of lectures, exercises, and a final semester project. Your final grade will be determined as follows:
 - **3 in-class quizzes (15%)**:
   - Each 15-min quiz contributes 5% to the final grade.
-- **4 hands-on assignments (40%)**:
+- **4 hands-on assignments (60%)**:
   - Assignment #1 contributes 10%.
-  - Assignment #2 contributes 10%.
+  - Assignment #2 contributes 20%.
   - Assignment #3 contributes 10%.
-  - Assignment #4 contributes 10%.
+  - Assignment #4 contributes 20%.
   - To be considered complete, code deliverables must be accompanied by sufficient documentation.
-- **Final exam (45%)**:
+- **Final exam (25%)**:
   - Take-home exam over a 24-hour period with open-ended questions.
   
 Students will have the option to do either the 4th assignment or a final project. You will have to propose your own idea for the final project and get the instructor's approval. **Project proposals must be submitted by October 16th**. In case you choose to do a final project, your grade will be determined as follows:
 - **3 in-class quizzes (15%)**:
   - Each 15-min quiz contributes 5% to the final grade.
-- **3 hands-on assignments (30%)**:
+- **3 hands-on assignments (40%)**:
   - Assignment #1 contributes 10%.
-  - Assignment #2 contributes 10%.
+  - Assignment #2 contributes 20%.
   - Assignment #3 contributes 10%.
   - To be considered complete, code deliverables must be accompanied by sufficient documentation.
-- **Final exam (30%)**:
+- **Final exam (10%)**:
   - Take-home exam over a 24-hour period with open-ended questions.
-- **Final project (25%)**:
+- **Final project (35%)**:
   - To be considered complete, project deliverables must be accompanied by a report (max 10 pages).
   
 ## Late Submission

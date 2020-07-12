@@ -13,7 +13,7 @@
 
 ## Course Description
 CS 591 L1 will be taught in the style of a graduate course that requires reading research papers and independent exploration of the material.
-The class will include lectures, readings, quizzes, programming assignments, a final (take-home) exam, and an optional final project.
+The class will include lectures, readings, quizzes, programming assignments, and an optional final project.
 During the semester, we will discuss the following topics:
 
 - Data provenance
@@ -57,33 +57,29 @@ For those who cannot attend, **all lectures will be prerecorded and the videos w
 Ultimately, students are responsible for their own learning and, thus, for keeping up with the material.
 
 ## Grading Scheme
-The course consists of lectures, exercises, and a final take-home exam. Your final grade will be determined as follows:
+The course consists of lectures, quizzes, and hands-on assignments. Your final grade will be determined as follows:
 - **3 in-class quizzes (15%)**:
-  - Each 15-min quiz contributes 5% to the final grade.
-- **4 hands-on assignments (70%)**:
+  - Each 20-min quiz contributes 5% to the final grade.
+- **4 hands-on assignments (85%)**:
   - Assignment #1 contributes 15%.
   - Assignment #2 contributes 20%.
-  - Assignment #3 contributes 15%.
-  - Assignment #4 contributes 20%.
+  - Assignment #3 contributes 20%.
+  - Assignment #4 contributes 30%.
   - To be considered complete, code deliverables must be accompanied by sufficient documentation.
-- **Final exam (15%)**:
-  - Take-home exam over a 24-hour period with open-ended questions.
   
 Students will have the option to do either the 4th assignment or a final project. You will have to propose your own idea for the final project and get the instructor's approval. **Project proposals must be submitted by October 16th**. In case you choose to do a final project, your grade will be determined as follows:
 - **3 in-class quizzes (15%)**:
-  - Each 15-min quiz contributes 5% to the final grade.
+  - Each 20-min quiz contributes 5% to the final grade.
 - **3 hands-on assignments (40%)**:
   - Assignment #1 contributes 10%.
   - Assignment #2 contributes 20%.
   - Assignment #3 contributes 10%.
   - To be considered complete, code deliverables must be accompanied by sufficient documentation.
-- **Final exam (10%)**:
-  - Take-home exam over a 24-hour period with open-ended questions.
-- **Final project (35%)**:
+- **Final project (45%)**:
   - To be considered complete, project deliverables must be accompanied by a report (max 10 pages).
   
 ## Late Submission
-Assignments and final exam solutions will be submitted via Gradescope. 
+Assignments solutions and final projects will be submitted via Gradescope. 
 Students who submit assignments late will only be eligible for up to **50% of the original score**. 
 
 ## Prerequisites

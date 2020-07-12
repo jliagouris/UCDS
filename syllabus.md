@@ -57,16 +57,16 @@ For those who cannot attend, **all lectures will be prerecorded and the videos w
 Ultimately, students are responsible for their own learning and, thus, for keeping up with the material.
 
 ## Grading Scheme
-The course consists of lectures, exercises, and a final semester project. Your final grade will be determined as follows:
+The course consists of lectures, exercises, and a final take-home exam. Your final grade will be determined as follows:
 - **3 in-class quizzes (15%)**:
   - Each 15-min quiz contributes 5% to the final grade.
-- **4 hands-on assignments (60%)**:
-  - Assignment #1 contributes 10%.
+- **4 hands-on assignments (70%)**:
+  - Assignment #1 contributes 15%.
   - Assignment #2 contributes 20%.
-  - Assignment #3 contributes 10%.
+  - Assignment #3 contributes 15%.
   - Assignment #4 contributes 20%.
   - To be considered complete, code deliverables must be accompanied by sufficient documentation.
-- **Final exam (25%)**:
+- **Final exam (15%)**:
   - Take-home exam over a 24-hour period with open-ended questions.
   
 Students will have the option to do either the 4th assignment or a final project. You will have to propose your own idea for the final project and get the instructor's approval. **Project proposals must be submitted by October 16th**. In case you choose to do a final project, your grade will be determined as follows:

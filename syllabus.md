@@ -49,7 +49,7 @@ Parts of the resources listed there will be given as (non-graded) reading assign
 You should be able to access all of these for free when connected to the campus network.
 
 ## Class Schedule
-Please see the [schedule on the course website](https://jliagouris.github.io/UCDS20/lectures.html).
+The (tentative) lecture schedule is available [here](https://jliagouris.github.io/UCDS20/lectures.html).
 
 ## Attendance
 Students are expected to attend (even virtually) each lecture. 

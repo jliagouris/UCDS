@@ -28,7 +28,6 @@ During the semester, we will discuss the following topics:
   - Causal profiling
   - End-to-end tracing
   - Critical path analysis
-  - Black-box performance analysis
   - Root-cause analysis
 
 ## Course Objectives

@@ -11,6 +11,7 @@ Below you can find a list of recommended readings and resources the lectures are
 - <a href="https://www.rajasambasivan.com/wp-content/uploads/2017/10/sambasivan-cmu-pdl-14-102.pdf">So, you want to trace your distributed system? Key design insights from years of practical experience</a>
 - <a href="http://sites.computer.org/debull/A07dec/susan.pdf">Provenance in Scientific Workflow Systems</a>
 - <a href="https://arxiv.org/pdf/1909.12072.pdf">Towards Explainable Artificial Intelligence</a>
+- <a href="https://christophm.github.io/interpretable-ml-book/">Interpretable Machine Learning</a>
 
 ### Data Provenance and Causality
 

@@ -18,7 +18,7 @@ The course focuses on algorithmic techniques and design principles that help hum
 
 In the third part, we will focus on techniques that help users understand execution performance. We will discuss traditional and causal profiling, end-to-end tracing, critical path analysis, and root-cause analysis.
 
-At the end of the course, successful students will have a solid understanding of:
+At the end of the semester, successful students will have a solid understanding of:
 
 - techniques that provide insights into the outputs and performance of data processing pipelines
 - the challenges and trade-offs one needs to consider when designing systems with a focus on explainability and performance clarity

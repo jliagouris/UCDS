@@ -51,7 +51,7 @@ You should be able to access all of these for free when connected to the campus 
 The (tentative) lecture schedule is available [here](https://jliagouris.github.io/UCDS20/lectures.html).
 
 ## Attendance
-Students are expected to attend (even virtually) each lecture. 
+Students are expected to attend each lecture either in person or virtually. 
 For those who cannot attend, **all lectures will be prerecorded and the videos will be posted on Piazza**.
 Ultimately, students are responsible for their own learning and, thus, for keeping up with the material.
 

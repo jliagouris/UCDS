@@ -8,7 +8,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 ### Attendance
 Students are expected to attend each lecture either in person or via Zoom. 
 According to BU safety guidelines, **the maximum number of students who can attend a CS 591 L1 lecture in person is 22**. 
-If this limit is exceeded, students will have to physically attend lectures in rotation (further instructions will be posted on Piazza before the semester starts).
+If this limit is exceeded, students will have to physically attend lectures in rotation (further instructions will be sent via Piazza before the semester starts).
 For those who cannot attend (e.g. due to different time zones), **all lectures will be prerecorded and the videos will be posted on Piazza**.
 Ultimately, students are responsible for their own learning, and thus for keeping up with the material.
 

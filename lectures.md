@@ -155,7 +155,7 @@ Functional causality for explaining query answers</a></td>
     <td class="tg-xgl1">10/27</td>
     <td class="tg-xglb">Lec 13: Guest Lecture</td>
     <td class="tg-xgl1"></td>
-    <td class="tg-xgl1"></td>
+    <td class="tg-xgl1">TBA</td>
   </tr>
   <tr>
     <td class="tg-x5oc">10/29</td>

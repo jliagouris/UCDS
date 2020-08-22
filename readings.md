@@ -49,3 +49,4 @@ Below you can find a list of recommended readings and resources the lectures are
 - <a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">The good, the bad, and the differences: Better network diagnostics with differential provenance
 </a>
 - <a href="https://people.ucsc.edu/~palvaro/socc16.pdf">Automating failure testing research at internet scale</a>
+- <a href="https://research.fb.com/publications/canopy-end-to-end-performance-tracing-at-scale/"> Canopy: An end-to-end performance tracing and analysis system</a>

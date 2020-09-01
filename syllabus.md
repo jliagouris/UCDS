@@ -68,7 +68,7 @@ The course consists of lectures, quizzes, and hands-on assignments. Your final g
   - Assignment #4 contributes 30%.
   - To be considered complete, code deliverables must be accompanied by sufficient documentation.
   
-Students will have the option to do either the fourth assignment or a final project. You will have to propose your own idea for the final project and get the instructor's approval. **Project proposals must be submitted by October 16th**. In case you choose to do a final project, your grade will be determined as follows:
+Students will have the option to do either the fourth assignment or a final project. **Final projects can be done individually or in teams of at most three students**. You will have to propose your own idea for the final project and get the instructor's approval. **Project proposals must be submitted by October 16th**. In case you choose to do a final project, your grade will be determined as follows:
 - **3 in-class quizzes (15%)**:
   - Each 20-min quiz contributes 5% to the final grade.
 - **3 hands-on assignments (55%)**:
@@ -87,7 +87,7 @@ Students who submit assignments late will only be eligible for up to **50% of th
 The course will be self-contained. Each one of the three parts will have an introductory lecture on the necessary concepts to understand the related research papers. Students must have strong programming skills (C/Python) and basic knowledge of data structures, algorithms, and computer systems (CS 112, CS 210 or equivalent experience).
 
 ## Academic Conduct
-All assignments must be completed individually. 
+**All hands-on assignments must be completed individually.** 
 Discussion with fellow students via Piazza or in-person are encouraged, but presenting the work of another person as your own is expressly forbidden. 
 This includes "borrowing", "stealing", copying programs/solutions or parts of them from others. 
 Note that we may use an automated plagiarism checker. Cheating will not be tolerated under any circumstances.

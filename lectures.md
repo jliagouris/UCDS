@@ -166,9 +166,9 @@ Functional causality for explaining query answers</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/12</td>
-    <td class="tg-0pky">Lec 17: Distributed System Tracing (cont.)</td>
-    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815415">Pivot Tracing: Dynamic causal monitoring for distributed systems </a>
-      <br /> Discussion on Assignment #4</td>
+    <td class="tg-0pky">Lec 17: Distributed System Tracing (cont.) <br /> Discussion on Assignment #4 </td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815415">Pivot Tracing: Dynamic causal monitoring for distributed systems </a 
+    </td>
   </tr>
 <tr>
     <td class="tg-0pky">11/17</td>

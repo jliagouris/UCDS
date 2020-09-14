@@ -59,25 +59,25 @@ Ultimately, students are responsible for their own learning, and thus for keepin
   </tr>
   <tr>
     <td class="tg-0pky">09/22</td>
+    <td class="tg-0pkt">Hacking Day</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">09/24</td>
     <td class="tg-0pky">Lec 5: Explaining Non-Answers</td>
     <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1559845.1559901">Why not?</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">09/24</td>
+    <td class="tg-0pky">09/29</td>
     <td class="tg-0pky">Lec 6: Data Causality</td>
     <td class="tg-0pky">Read: <a href="https://people.cs.umass.edu/~ameli/projects/causality/papers/MUD2010.pdf">Why so? or Why no?
 Functional causality for explaining query answers</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">09/29</td>
+    <td class="tg-0pky">10/01</td>
     <td class="tg-0pky">Lec 7: Dataflow Provenance</td>
     <td class="tg-0pky">Read: <a href="http://www.vldb.org/pvldb/vol9/p1137-chothia.pdf">Explaining outputs in modern data analytics</a><br />
       Optional: <a href="http://ilpubs.stanford.edu:8090/985/2/cidr_prov_camera2.pdf">Provenance for generalized Map and Reduce workflows</a></td>
-  </tr>
-    <tr>
-    <td class="tg-0pky">10/01</td>
-    <td class="tg-0pkt">Hacking Day</td>
-    <td class="tg-0pky">Office hours during lecture time</td>
   </tr>
   <tr>
     <td class="tg-31ua">10/02</td>

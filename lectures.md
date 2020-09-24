@@ -70,8 +70,7 @@ Ultimately, students are responsible for their own learning, and thus for keepin
   <tr>
     <td class="tg-0pky">09/29</td>
     <td class="tg-0pky">Lec 6: Data Causality</td>
-    <td class="tg-0pky">Read: <a href="https://people.cs.umass.edu/~ameli/projects/causality/papers/MUD2010.pdf">Why so? or Why no?
-Functional causality for explaining query answers</a></td>
+    <td class="tg-0pky">Read: <a href="https://www.cs.cornell.edu/home/halpern/papers/DE_Bulletin2010.pdf">Causality in Databases</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">10/01</td>

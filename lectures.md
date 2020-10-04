@@ -98,17 +98,17 @@ Ultimately, students are responsible for their own learning, and thus for keepin
     <td class="tg-x5oc">Lec 9: Machine Learning Concepts</td>
     <td class="tg-x5oc">Overview of basic concepts in Part II</td>
   </tr>
+   <tr>
+    <td class="tg-x5ol">10/13</td>
+    <td class="tg-x5ol">No Lecture</td>
+    <td class="tg-x5ol">Substitute Monday</td>
+  </tr>
   <tr>
-    <td class="tg-0pky">10/13</td>
+    <td class="tg-0pky">10/15</td>
     <td class="tg-0pky">Lec 10: Explaining Classification Results</td>
     <td class="tg-0pky"> Watch: <a href="https://channel9.msdn.com/Shows/AI-Show/The-Science-Behind-InterpretML-LIME">The Science Behind InterpretML: LIME</a> <br /> 
       Optional: <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">“Why should I trust you?” Explaining the predictions of any classifier</a></td>
   </tr> 
-  <tr>
-    <td class="tg-x5ol">10/15</td>
-    <td class="tg-x5ol">No Lecture</td>
-    <td class="tg-x5ol">Substitute Monday</td>
-  </tr>
   <tr>
     <td class="tg-31ua">10/16</td>
     <td class="tg-31ua"></td>

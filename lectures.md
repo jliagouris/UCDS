@@ -94,9 +94,9 @@ Ultimately, students are responsible for their own learning, and thus for keepin
     <td class="tg-31ua">DROP WITHOUT "W"</td>
   </tr>
   <tr>
-    <td class="tg-x5oc">10/08</td>
-    <td class="tg-x5oc">Lec 9: Discussion on Assignment #1</td>
-    <td class="tg-x5oc">Common mistakes in Assignment #1</td>
+    <td class="tg-0pky">10/08</td>
+    <td class="tg-0pky">Lec 9: Discussion on Assignment #1</td>
+    <td class="tg-0pky">Common mistakes in Assignment #1</td>
   </tr>
    <tr>
     <td class="tg-x5ol">10/13</td>

@@ -95,7 +95,7 @@ Ultimately, students are responsible for their own learning, and thus for keepin
   </tr>
   <tr>
     <td class="tg-x5oc">10/08</td>
-    <td class="tg-x5oc">Lec 9: Machine Learning Concepts</td>
+    <td class="tg-x5oc">Lec 9: Discussion on Assignment #1</td>
     <td class="tg-x5oc">Overview of basic concepts in Part II</td>
   </tr>
    <tr>
@@ -103,12 +103,11 @@ Ultimately, students are responsible for their own learning, and thus for keepin
     <td class="tg-x5ol">No Lecture</td>
     <td class="tg-x5ol">Substitute Monday</td>
   </tr>
-  <tr>
-    <td class="tg-0pky">10/15</td>
-    <td class="tg-0pky">Lec 10: Explaining Classification Results</td>
-    <td class="tg-0pky"> Watch: <a href="https://channel9.msdn.com/Shows/AI-Show/The-Science-Behind-InterpretML-LIME">The Science Behind InterpretML: LIME</a> <br /> 
-      Optional: <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">“Why should I trust you?” Explaining the predictions of any classifier</a></td>
-  </tr> 
+    <tr>
+    <td class="tg-x5oc">10/15</td>
+    <td class="tg-x5oc">Lec 10: Machine Learning Concepts</td>
+    <td class="tg-x5oc">Overview of basic concepts in Part II</td>
+  </tr>
   <tr>
     <td class="tg-31ua">10/16</td>
     <td class="tg-31ua"></td>
@@ -116,14 +115,15 @@ Ultimately, students are responsible for their own learning, and thus for keepin
   </tr>
   <tr>
     <td class="tg-0pky">10/20</td>
-    <td class="tg-0pky">Lec 11: Interpreting Model Predictions</td>
-    <td class="tg-0pky">Watch: <a href="https://channel9.msdn.com/Shows/AI-Show/The-Science-Behind-InterpretML-SHAP">The Science Behind InterpretML: SHAP</a> <br />
-      Optional: <a href="https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions">A unified approach to interpreting model predictions</a></td>
-  </tr>
+    <td class="tg-0pky">Lec 11: Explaining Classification Results</td>
+    <td class="tg-0pky"> Watch: <a href="https://channel9.msdn.com/Shows/AI-Show/The-Science-Behind-InterpretML-LIME">The Science Behind InterpretML: LIME</a> <br /> 
+      Optional: <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">“Why should I trust you?” Explaining the predictions of any classifier</a></td>
+  </tr> 
   <tr>
     <td class="tg-0pky">10/22</td>
-    <td class="tg-0pky">Lec 12: Discussion on Assignment #3 <br />Quiz #2 (during lecture) </td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Lec 12: Interpreting Model Predictions</td>
+    <td class="tg-0pky">Watch: <a href="https://channel9.msdn.com/Shows/AI-Show/The-Science-Behind-InterpretML-SHAP">The Science Behind InterpretML: SHAP</a> <br />
+      Optional: <a href="https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions">A unified approach to interpreting model predictions</a></td>
   </tr>
   <tr>
     <td class="tg-31ua">10/23</td>
@@ -136,20 +136,20 @@ Ultimately, students are responsible for their own learning, and thus for keepin
     <td class="tg-xgl1">TBA</td>
   </tr>
   <tr>
-    <td class="tg-x5oc">10/29</td>
-    <td class="tg-x5oc">Lec 14: Distributed Systems Concepts</td>
+    <td class="tg-0pky">10/29</td>
+    <td class="tg-0pky">Lec 14: Discussion on Assignment #3 <br />Quiz #2 (during lecture) </td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-x5oc">11/03</td>
+    <td class="tg-x5oc">Lec 15: Distributed Systems Concepts</td>
     <td class="tg-x5oc">Overview of basic concepts in Part III</td>
   </tr>
   <tr>
-    <td class="tg-0pky">11/03</td>
-    <td class="tg-0pky">Lec 15: Causal Profiling</td>
+    <td class="tg-0pky">11/05</td>
+    <td class="tg-0pky">Lec 16: Causal Profiling</td>
     <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815409">Coz: finding code that counts with causal profiling</a> <br /> 
       Optional: <a href="https://www.youtube.com/watch?v=jE0V-p1odPg"> SOSP'15 talk</a> </td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">11/05</td>
-    <td class="tg-0pkt">Hacking Day</td>
-    <td class="tg-0pky">Office hours during lecture time</td>
   </tr>
   <tr>
     <td class="tg-31ua">11/06</td>
@@ -159,31 +159,31 @@ Ultimately, students are responsible for their own learning, and thus for keepin
   </tr>
   <tr>
     <td class="tg-0pky">11/10</td>
-    <td class="tg-0pky">Lec 16: Distributed System Tracing</td>
+    <td class="tg-0pkt">Hacking Day</td>
+    <td class="tg-0pky">Office hours during lecture time</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11/12</td>
+    <td class="tg-0pky">Lec 17: Distributed System Tracing</td>
     <td class="tg-0pky">Read: <a href="https://research.google/pubs/pub36356/">Dapper: A large-scale distributed systems tracing infrastructure</a>
     <br /> Optional: <a href="https://www.usenix.org/legacy/event/nsdi07/tech/full_papers/fonseca/fonseca.pdf">X-Trace: A pervasive network tracing framework</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">11/12</td>
-    <td class="tg-0pky">Lec 17: Distributed System Tracing (cont.) <br /> Discussion on Assignment #4 </td>
+    <td class="tg-0pky">11/17</td>
+    <td class="tg-0pky">Lec 18: Distributed System Tracing (cont.) <br /> Discussion on Assignment #4 </td>
     <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815415">Pivot Tracing: Dynamic causal monitoring for distributed systems </a 
     </td>
   </tr>
 <tr>
-    <td class="tg-0pky">11/17</td>
-    <td class="tg-0pky">Lec 18: Big Data Systems Performance Analysis</td>
+    <td class="tg-0pky">11/19</td>
+    <td class="tg-0pky">Lec 19: Big Data Systems Performance Analysis</td>
     <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf">Scalability! But at what COST?</a><br/> Optional: <a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-ousterhout.pdf">Making sense of performance in data analytics frameworks</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">11/19</td>
-    <td class="tg-0pky">Lec 19: Critical Path Analysis</td>
+    <td class="tg-0pky">11/24</td>
+    <td class="tg-0pky">Lec 20: Critical Path Analysis</td>
     <td class="tg-0pky">Read: <a href="https://cs-people.bu.edu/liagos/material/nsdi18-snailtrail.pdf">SnailTrail: Generalizing critical paths for online
 analysis of distributed dataflows</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">11/24</td>
-    <td class="tg-0pky">Lec 20: Log-based Performance Analysis</td>
-    <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chow.pdf">The Mystery Machine: End-to-end performance analysis of large-scale internet services</a></td>
   </tr>
   <tr>
     <td class="tg-x5ol">11/26</td>
@@ -192,22 +192,22 @@ analysis of distributed dataflows</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">12/01</td>
-    <td class="tg-0pky">Lec 21: Black-Box Performance Analysis</td>
-    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1165389.945454">Performance debugging for distributed systems of black boxes</a></td>
+    <td class="tg-0pky">Lec 21: Log-based Performance Analysis</td>
+    <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chow.pdf">The Mystery Machine: End-to-end performance analysis of large-scale internet services</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">12/03</td>
-    <td class="tg-0pky">Lec 22: Root-cause Analysis <br />Quiz #3 (during lecture)</td>
-    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">Better network diagnostics with differential provenance</a></td>
+    <td class="tg-0pky">Lec 22: Black-Box Performance Analysis</td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1165389.945454">Performance debugging for distributed systems of black boxes</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">12/08</td>
-    <td class="tg-0pkt">Hacking Day</td>
-    <td class="tg-0pky">Office hours during lecture time</td>
+    <td class="tg-0pky">Lec 23: Root-cause Analysis <br />Quiz #3 (during lecture)</td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">Better network diagnostics with differential provenance</a></td>
   </tr>
   <tr>
     <td class="tg-31ua">12/10</td>
-    <td class="tg-31ua">Lec 23: Recap</td>
+    <td class="tg-31ua">Lec 24: Recap</td>
     <td class="tg-31ua">DUE DATE: Assignment #4 / Final Project</td>
   </tr>
 </table>

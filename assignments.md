@@ -26,5 +26,5 @@ There will be four (4) assignments during the semester, with availability and du
 | :------: | :-----: | :---: | 
 | 1 | 09/17 | 10/02 | 2 weeks |
 | 2 | 10/02 | 10/23 | 3 weeks |
-| 3 | 10/22 | 11/06 | 2 weeks |
+| 3 | 10/22 | 11/13 | 2 weeks |
 | 4 | 10/11 | 12/10 | 1 month |

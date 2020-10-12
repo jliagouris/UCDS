@@ -96,7 +96,7 @@ Ultimately, students are responsible for their own learning, and thus for keepin
   <tr>
     <td class="tg-x5oc">10/08</td>
     <td class="tg-x5oc">Lec 9: Discussion on Assignment #1</td>
-    <td class="tg-x5oc">Overview of basic concepts in Part II</td>
+    <td class="tg-x5oc">Common mistakes in Assignment #1</td>
   </tr>
    <tr>
     <td class="tg-x5ol">10/13</td>

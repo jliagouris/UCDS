@@ -132,8 +132,8 @@ Ultimately, students are responsible for their own learning, and thus for keepin
   </tr>
   <tr>
     <td class="tg-xgl1">10/27</td>
-    <td class="tg-xglb">Lec 13: Guest Lecture</td>
-    <td class="tg-xgl1">TBA</td>
+    <td class="tg-xglb">Lec 13: Guest Lecture by Prof. Jim Dowling</td>
+    <td class="tg-xgl1">Provenance for Machine Learning Pipelines</td>
   </tr>
   <tr>
     <td class="tg-0pky">10/29</td>

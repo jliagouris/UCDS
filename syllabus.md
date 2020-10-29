@@ -63,9 +63,9 @@ The course consists of lectures, quizzes, and hands-on assignments. Your final g
   - Each 20-min quiz contributes 5% to the final grade.
 - **4 hands-on assignments (85%)**:
   - Assignment #1 contributes 15%.
-  - Assignment #2 contributes 20%.
+  - Assignment #2 contributes 25%.
   - Assignment #3 contributes 20%.
-  - Assignment #4 contributes 30%.
+  - Assignment #4 contributes 25%.
   - To be considered complete, code deliverables must be accompanied by sufficient documentation.
   
 Students will have the option to do either the fourth assignment or a final project. **Final projects can be done individually or in teams of at most three students**. You will have to propose your own idea for the final project and get the instructor's approval. **Project proposals must be submitted by October 16th**. In case you choose to do a final project, your grade will be determined as follows:

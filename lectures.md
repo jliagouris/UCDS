@@ -152,6 +152,11 @@ Ultimately, students are responsible for their own learning, and thus for keepin
       Optional: <a href="https://www.youtube.com/watch?v=jE0V-p1odPg"> SOSP'15 talk</a> </td>
   </tr>
   <tr>
+    <td class="tg-31ua">11/06</td>
+    <td class="tg-31ua"></td>
+    <td class="tg-31ua">DROP WITH "W"</td>
+  </tr>
+  <tr>
     <td class="tg-0pky">11/10</td>
     <td class="tg-0pky">Lec 17: Distributed System Tracing <br /> Discussion on Assignment #4 </td>
     <td class="tg-0pky">Read: <a href="https://research.google/pubs/pub36356/">Dapper: A large-scale distributed systems tracing infrastructure</a>
@@ -166,8 +171,7 @@ Ultimately, students are responsible for their own learning, and thus for keepin
   <tr>
     <td class="tg-31ua">11/13</td>
     <td class="tg-31ua"></td>
-    <td class="tg-31ua">DUE DATE: Assignment #3 <br />
-    DROP WITH "W"</td>
+    <td class="tg-31ua">DUE DATE: Assignment #3</td>
   </tr>
   <tr>
     <td class="tg-0pky">11/17</td>

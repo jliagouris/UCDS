@@ -182,7 +182,7 @@ Ultimately, students are responsible for their own learning, and thus for keepin
 <tr>
     <td class="tg-0pky">11/19</td>
     <td class="tg-0pky">Lec 19: Big Data Systems Performance Analysis</td>
-    <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf">Scalability! But at what COST?</a><br/> Optional: <a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-ousterhout.pdf">Making sense of performance in data analytics frameworks</a></td>
+    <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-ousterhout.pdf">Making sense of performance in data analytics frameworks</a><br/> Optional: <a href="https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf">Scalability! But at what COST?</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/24</td>

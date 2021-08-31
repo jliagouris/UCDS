@@ -72,9 +72,9 @@ Ultimately, students are responsible for their own learning, and thus for keepin
     <td class="tg-0pky">Read: <a href="https://www.cs.cornell.edu/home/halpern/papers/DE_Bulletin2010.pdf">Causality in Databases</a></td>
   </tr>
   <tr>
-    <td class="tg-31ub">09/30</td>
-    <td class="tg-31ub">Lec 7: Dataflow Provenance<br />Quiz #1 (during lecture)</td>
-    <td class="tg-31ub">Read: <a href="http://www.vldb.org/pvldb/vol9/p1137-chothia.pdf">Explaining outputs in modern data analytics</a><br />
+    <td class="tg-0pky">09/30</td>
+    <td class="tg-0pky">Lec 7: Dataflow Provenance</td>
+    <td class="tg-0pky">Read: <a href="http://www.vldb.org/pvldb/vol9/p1137-chothia.pdf">Explaining outputs in modern data analytics</a><br />
       Optional: <a href="http://ilpubs.stanford.edu:8090/985/2/cidr_prov_camera2.pdf">Provenance for generalized Map and Reduce workflows</a></td>
   </tr>
   <tr>
@@ -83,9 +83,9 @@ Ultimately, students are responsible for their own learning, and thus for keepin
     <td class="tg-31ua">DUE DATE: Assignment #1</td>
   </tr>
   <tr>
-    <td class="tg-0pky">10/05</td>
-    <td class="tg-0pky">Lec 8: Discussion on Assignment #1</td>
-    <td class="tg-0pky">Common mistakes in Assignment #1</td>
+    <td class="tg-31ub">10/05</td>
+    <td class="tg-31ub">Lec 8: Discussion on Assignment #1<br />Quiz #1 (during lecture)</td>
+    <td class="tg-31ub">Common mistakes in Assignment #1</td>
   </tr>
   <tr>
     <td class="tg-x5oc">10/07</td>

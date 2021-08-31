@@ -72,7 +72,7 @@ Ultimately, students are responsible for their own learning, and thus for keepin
   </tr>
   <tr>
     <td class="tg-0pky">09/30</td>
-    <td class="tg-0pky">Lec 7: Dataflow Provenance<br /><b>Quiz #1 (during lecture)</b></td>
+    <td class="tg-0pky">Lec 7: Dataflow Provenance<br />Quiz #1 (during lecture)</td>
     <td class="tg-0pky">Read: <a href="http://www.vldb.org/pvldb/vol9/p1137-chothia.pdf">Explaining outputs in modern data analytics</a><br />
       Optional: <a href="http://ilpubs.stanford.edu:8090/985/2/cidr_prov_camera2.pdf">Provenance for generalized Map and Reduce workflows</a></td>
   </tr>
@@ -130,7 +130,7 @@ Ultimately, students are responsible for their own learning, and thus for keepin
   </tr>
   <tr>
     <td class="tg-0pky">10/28</td>
-    <td class="tg-0pky">Lec 14: Discussion on Assignment #3 <br /><p style="color:red;>Quiz #2 (during lecture)</p></td>
+    <td class="tg-0pky">Lec 14: Discussion on Assignment #3 <br />Quiz #2 (during lecture)</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -200,7 +200,7 @@ analysis of distributed dataflows</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">12/07</td>
-    <td class="tg-0pky">Lec 23: Root-cause Analysis <br /><b>Quiz #3 (during lecture)</b></td>
+    <td class="tg-0pky">Lec 23: Root-cause Analysis <br />Quiz #3 (during lecture)</td>
     <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">Better network diagnostics with differential provenance</a></td>
   </tr>
   <tr>

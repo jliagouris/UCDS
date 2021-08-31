@@ -130,7 +130,7 @@ Ultimately, students are responsible for their own learning, and thus for keepin
   </tr>
   <tr>
     <td class="tg-0pky">10/28</td>
-    <td class="tg-0pky">Lec 14: Discussion on Assignment #3 <br /><b>Quiz #2 (during lecture)</b></td>
+    <td class="tg-0pky">Lec 14: Discussion on Assignment #3 <br /><p style="color:red;>Quiz #2 (during lecture)</p></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>

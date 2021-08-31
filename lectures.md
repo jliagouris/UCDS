@@ -87,9 +87,9 @@ Ultimately, students are responsible for their own learning, and thus for keepin
     <td class="tg-0pky">Common mistakes in Assignment #1</td>
   </tr>
   <tr>
-    <td class="tg-0pky">10/07</td>
-    <td class="tg-0pky">Lec 9: Machine Learning Concepts<br /><b>DROP WITHOUT "W"</b></td>
-    <td class="tg-0pky">Overview of basic concepts in Part II</td>
+    <td class="tg-x5oc">10/07</td>
+    <td class="tg-x5oc">Lec 9: Machine Learning Concepts<br /><b>DROP WITHOUT "W"</b></td>
+    <td class="tg-x5oc">Overview of basic concepts in Part II</td>
   </tr>
    <tr>
     <td class="tg-x5ol">10/12</td>

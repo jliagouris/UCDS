@@ -19,6 +19,7 @@ Ultimately, students are responsible for their own learning, and thus for keepin
 .tg .tg-xgl1{background-color:#8dd6f8;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-xglb{background-color:#8dd6f8;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-31ua{background-color:#ffcc67;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-31ub{background-color:#cccc00;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pkt{font-style:italic;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-ado3{font-style:italic;background-color:#fe996b;border-color:inherit;text-align:left;vertical-align:top}
@@ -71,9 +72,9 @@ Ultimately, students are responsible for their own learning, and thus for keepin
     <td class="tg-0pky">Read: <a href="https://www.cs.cornell.edu/home/halpern/papers/DE_Bulletin2010.pdf">Causality in Databases</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">09/30</td>
-    <td class="tg-0pky">Lec 7: Dataflow Provenance<br />Quiz #1 (during lecture)</td>
-    <td class="tg-0pky">Read: <a href="http://www.vldb.org/pvldb/vol9/p1137-chothia.pdf">Explaining outputs in modern data analytics</a><br />
+    <td class="tg-31ub">09/30</td>
+    <td class="tg-31ub">Lec 7: Dataflow Provenance<br />Quiz #1 (during lecture)</td>
+    <td class="tg-31ub">Read: <a href="http://www.vldb.org/pvldb/vol9/p1137-chothia.pdf">Explaining outputs in modern data analytics</a><br />
       Optional: <a href="http://ilpubs.stanford.edu:8090/985/2/cidr_prov_camera2.pdf">Provenance for generalized Map and Reduce workflows</a></td>
   </tr>
   <tr>
@@ -129,9 +130,9 @@ Ultimately, students are responsible for their own learning, and thus for keepin
     <td class="tg-xgl1">TBD</td>
   </tr>
   <tr>
-    <td class="tg-0pky">10/28</td>
-    <td class="tg-0pky">Lec 14: Discussion on Assignment #3 <br />Quiz #2 (during lecture)</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-31ub">10/28</td>
+    <td class="tg-31ub">Lec 14: Discussion on Assignment #3 <br />Quiz #2 (during lecture)</td>
+    <td class="tg-31ub"></td>
   </tr>
   <tr>
     <td class="tg-x5oc">11/02</td>
@@ -194,9 +195,9 @@ analysis of distributed dataflows</a></td>
     <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1165389.945454">Performance debugging for distributed systems of black boxes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">12/07</td>
-    <td class="tg-0pky">Lec 23: Root-cause Analysis <br />Quiz #3 (during lecture)</td>
-    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">Better network diagnostics with differential provenance</a></td>
+    <td class="tg-31ub">12/07</td>
+    <td class="tg-31ub">Lec 23: Root-cause Analysis <br />Quiz #3 (during lecture)</td>
+    <td class="tg-31ub">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">Better network diagnostics with differential provenance</a></td>
   </tr>
   <tr>
     <td class="tg-31ua">12/9</td>

@@ -2,8 +2,8 @@
 
 ### Special Dates
 Make sure to become familiar with the [Official Semester Dates](https://www.bu.edu/reg/calendars/semester/). Some of the critical Semester Dates are:
-- The Last Day to DROP Clases (without a 'W' grade) October 7, 2020.
-- The Last Day to DROP Classes (with a 'W' grade) November 5, 2020
+- The Last Day to DROP Clases (without a 'W' grade) October 7, 2021.
+- The Last Day to DROP Classes (with a 'W' grade) November 5, 2021
 
 ### Attendance
 Students are expected to attend each lecture either in person or via Zoom. 

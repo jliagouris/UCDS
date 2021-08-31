@@ -3,13 +3,13 @@
 # Course Syllabus: CS 591 L1 "User-centric Systems for Data Science" (Fall 2020)
 
 **Instructor Name**: John Liagouris  
-**Office Location**: 111 Cummington Mall, 138R <br />
-**Course Time & Location**:	Tue/Thu 9:30-10:45, CAS B20  
+**Office Location**: 111 Cummington Mall, 139 <br />
+**Course Time & Location**:	Tue/Thu 9:30-10:45, FLR 121  
 **Office Hours**: TBD  
 
 ## Courseware
-- We will use the [course website](https://jliagouris.github.io/UCDS20/) to maintain an up-to-date [class schedule](https://jliagouris.github.io/UCDS20/lectures.html).
-- We will use [Piazza](https://piazza.com/bu/fall2020/cs591l1/home) for discussions on course topics, as well as questions and clarifications regarding the assignments. You may also post on Piazza if you have any question on course logistics.
+- We will use the [course website](https://jliagouris.github.io/UCDS/) to maintain an up-to-date [class schedule](https://jliagouris.github.io/UCDS/lectures.html).
+- We will use [Piazza](https://piazza.com/bu/fall2021/cs591l1/home) for discussions on course topics, as well as questions and clarifications regarding the assignments. You may also post on Piazza if you have any question on course logistics.
 
 ## Course Description
 CS 591 L1 will be taught in the style of a graduate course that requires reading research papers and independent exploration of the material.
@@ -22,6 +22,7 @@ During the semester, we will discuss the following topics:
   - Database causality and responsibility
   - Backward tracing
 - Model interpretability
+  - Glass-box models
   - Explaining classification results
   - Interpretting model predictions
 - System performance analysis
@@ -42,19 +43,17 @@ At the end of the course, successful students will have a solid understanding of
 
 ## Course Materials
 There is no required textbook for this class. After each lecture, slides will be published on the course website, 
-in the "Slides" column of the [lecture schedule](https://jliagouris.github.io/UCDS20/lectures.html). 
-Further publicly available resources are listed in the course website, under ["Readings"](https://jliagouris.github.io/UCDS20/readings.html). 
+in the "Slides" column of the [lecture schedule](https://jliagouris.github.io/UCDS/lectures.html). 
+Further publicly available resources are listed in the course website, under ["Readings"](https://jliagouris.github.io/UCDS/readings.html). 
 Parts of the resources listed there will be given as (non-graded) reading assignments during the course. 
 You should be able to access all of these for free when connected to the campus network.
 
 ## Class Schedule
-The (tentative) lecture schedule is available [here](https://jliagouris.github.io/UCDS20/lectures.html).
+The (tentative) lecture schedule is available [here](https://jliagouris.github.io/UCDS/lectures.html).
 
 ## Attendance
 Students are expected to attend each lecture either in person or via Zoom. 
-According to BU safety guidelines, **the maximum number of students who can attend a lecture in CAS B20 is 22**. 
-If this limit is exceeded, students will have to physically attend lectures in rotation (further instructions will be sent via Piazza before the semester starts).
-For those who cannot attend even remotely (e.g. due to different time zones), **all lectures will be recorded and the videos will be posted on Piazza**.
+For those who cannot attend even remotely (e.g. due to different time zones), **all lectures will be recorded and the videos will be posted on [Piazza](https://piazza.com/bu/fall2021/cs591l1/home)**.
 Ultimately, students are responsible for their own learning and, thus, for keeping up with the material.
 
 ## Grading Scheme
@@ -68,7 +67,7 @@ The course consists of lectures, quizzes, and hands-on assignments. Your final g
   - Assignment #4 contributes 25%.
   - To be considered complete, code deliverables must be accompanied by sufficient documentation.
   
-Students will have the option to do either the fourth assignment or a final project. **Final projects can be done individually or in teams of at most three students**. You will have to propose your own idea for the final project and get the instructor's approval. **Project proposals must be submitted by October 16th**. In case you choose to do a final project, your grade will be determined as follows:
+Students will have the option to do either the fourth assignment or a final project. **Final projects can be done individually or in teams of at most three students**. You will have to propose your own idea for the final project and get the instructor's approval. **Project proposals must be submitted by October 15th**. In case you choose to do a final project, your grade will be determined as follows:
 - **3 in-class quizzes (15%)**:
   - Each 20-min quiz contributes 5% to the final grade.
 - **3 hands-on assignments (55%)**:
@@ -77,10 +76,10 @@ Students will have the option to do either the fourth assignment or a final proj
   - Assignment #3 contributes 20%.
   - To be considered complete, code deliverables must be accompanied by sufficient documentation.
 - **Final project (30%)**:
-  - To be considered complete, project deliverables must be accompanied by a report (max 10 pages).
+  - To be considered complete, project deliverables must be accompanied by a presentation.
   
 ## Late Submission
-Assignment solutions and final projects will be submitted via Gradescope. 
+Assignment solutions and final projects will be submitted using the course Gitlab. 
 Students who submit assignments late will only be eligible for up to **50% of the original score**. 
 
 ## Prerequisites

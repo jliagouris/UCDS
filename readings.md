@@ -29,6 +29,7 @@ Below you can find a list of recommended readings and resources the lectures are
 
 ### Explainable AI and Recommender Systems
 
+- <a href="https://dl.acm.org/doi/10.1145/2783258.2788613">“Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission</a>
 - <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">“Why should I trust you?” Explaining the predictions of any classifier</a>
 - <a href="https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf">A unified approach to interpreting model predictions</a>
 - <a href="https://arxiv.org/abs/1811.10154">Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead</a>

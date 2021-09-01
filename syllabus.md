@@ -42,8 +42,7 @@ At the end of the course, successful students will have a solid understanding of
 - the challenges and trade-offs one needs to consider when designing systems with a focus on explainability and performance clarity
 
 ## Course Materials
-There is no required textbook for this class. After each lecture, slides will be published on the course website, 
-in the "Slides" column of the [lecture schedule](https://jliagouris.github.io/UCDS/lectures.html). 
+There is no required textbook for this class. After each lecture, slides will be posted on [Piazza](https://piazza.com/bu/fall2021/cs591l1/home). 
 Further publicly available resources are listed in the course website, under ["Readings"](https://jliagouris.github.io/UCDS/readings.html). 
 Parts of the resources listed there will be given as (non-graded) reading assignments during the course. 
 You should be able to access all of these for free when connected to the campus network.
@@ -52,8 +51,7 @@ You should be able to access all of these for free when connected to the campus 
 The (tentative) lecture schedule is available [here](https://jliagouris.github.io/UCDS/lectures.html).
 
 ## Attendance
-Students are expected to attend each lecture either in person or via Zoom. 
-For those who cannot attend even remotely (e.g. due to different time zones), **all lectures will be recorded and the videos will be posted on [Piazza](https://piazza.com/bu/fall2021/cs591l1/home)**.
+Students are expected to attend each lecture in person according to the BU safety guidlines. **For students with GRS approval who cannot attend in person, all lectures will be offered online via Zoom and the recordings will be posted on [Piazza](https://piazza.com/bu/fall2021/cs591l1/home)**.
 Ultimately, students are responsible for their own learning and, thus, for keeping up with the material.
 
 ## Grading Scheme

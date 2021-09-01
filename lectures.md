@@ -6,8 +6,7 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 - The Last Day to DROP Classes (with a 'W' grade) November 5, 2021
 
 ### Attendance
-Students are expected to attend each lecture either in person or via Zoom. 
-For those who cannot attend even remotely (e.g. due to different time zones), **all lectures will be recorded and the videos will be posted on [Piazza](https://piazza.com/bu/fall2021/cs591l1/home)**.
+Students are expected to attend each lecture in person according to the BU safety guidlines. **For students with GRS approval who cannot attend in person, all lectures will be offered online via Zoom and the recordings will be posted on [Piazza](https://piazza.com/bu/fall2021/cs591l1/home)**.
 Ultimately, students are responsible for their own learning and, thus, for keeping up with the material.
 
 # Tentative lecture schedule

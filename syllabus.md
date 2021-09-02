@@ -1,6 +1,6 @@
 ## [<< back](./index.html)
 
-# Course Syllabus: CS 591 L1 "User-centric Systems for Data Science" (Fall 2021)
+# Course Syllabus: CS 599 L1 "User-centric Systems for Data Science" (Fall 2021)
 
 **Instructor Name**: John Liagouris  
 **Office Location**: 111 Cummington Mall, R139 <br />
@@ -12,7 +12,7 @@
 - We will use [Piazza](https://piazza.com/bu/fall2021/cs591l1/home) for discussions on course topics, as well as questions and clarifications regarding the assignments. You may also post on Piazza if you have any question on course logistics.
 
 ## Course Description
-CS 591 L1 will be taught in the style of a graduate course that requires reading research papers and independent exploration of the material.
+CS 599 L1 will be taught in the style of a graduate course that requires reading research papers and independent exploration of the material.
 The class will include lectures, readings, quizzes, programming assignments, and an optional final project.
 During the semester, we will discuss the following topics:
 

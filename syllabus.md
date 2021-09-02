@@ -3,7 +3,7 @@
 # Course Syllabus: CS 591 L1 "User-centric Systems for Data Science" (Fall 2021)
 
 **Instructor Name**: John Liagouris  
-**Office Location**: 111 Cummington Mall, 139 <br />
+**Office Location**: 111 Cummington Mall, R139 <br />
 **Course Time & Location**:	Tue/Thu 9:30-10:45, FLR 121  
 **Office Hours**: TBD  
 

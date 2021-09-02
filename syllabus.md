@@ -55,26 +55,16 @@ Students are expected to attend each lecture in person according to the BU safet
 Ultimately, students are responsible for their own learning and, thus, for keeping up with the material.
 
 ## Grading Scheme
-The course consists of lectures, quizzes, and hands-on assignments. Your final grade will be determined as follows:
-- **3 in-class quizzes (15%)**:
+The course consists of lectures, quizzes, and hands-on assignments. Students will also have the option to do either the fourth assignment or a final project. **Final projects can be done individually or in teams of at most three students**. You can propose your own idea for the final project but you need to get the instructor's approval. **Project proposals must be submitted by October 15th**. Your final grade will be determined as follows: 
+- **3 in-class quizzes: 15%**:
   - Each 20-min quiz contributes 5% to the final grade.
-- **4 hands-on assignments (85%)**:
-  - Assignment #1 contributes 15%.
-  - Assignment #2 contributes 25%.
-  - Assignment #3 contributes 20%.
-  - Assignment #4 contributes 25%.
-  - To be considered complete, code deliverables must be accompanied by sufficient documentation.
-  
-Students will have the option to do either the fourth assignment or a final project. **Final projects can be done individually or in teams of at most three students**. You will have to propose your own idea for the final project and get the instructor's approval. **Project proposals must be submitted by October 15th**. In case you choose to do a final project, your grade will be determined as follows:
-- **3 in-class quizzes (15%)**:
-  - Each 20-min quiz contributes 5% to the final grade.
-- **3 hands-on assignments (55%)**:
+- **4 assignments (or 3 assignments and a final project): 85%**:
   - Assignment #1 contributes 15%.
   - Assignment #2 contributes 20%.
   - Assignment #3 contributes 20%.
+  - Assignment #4 / Final project contributes 30%.
   - To be considered complete, code deliverables must be accompanied by sufficient documentation.
-- **Final project (30%)**:
-  - To be considered complete, project deliverables must be accompanied by a presentation.
+  - The final project also includes a 15min presentation.
   
 ## Late Submission
 Assignment solutions and final projects will be submitted using the course Gitlab. 

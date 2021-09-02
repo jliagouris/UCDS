@@ -8,7 +8,7 @@ Welcome to **CS 599 L1: User-centric Systems for Data Science**, Fall 2021
 - Code: CS 599 L1
 - Instructor: [John Liagouris](https://cs-people.bu.edu/liagos/)
 - Lectures: Tue/Thu 9:30-10:45, [FLR	121](https://www.bu.edu/classrooms/classroom/flr-121/)
-- Office hours: TBD
+- Office hours: Thu 1-3pm MCS R139 (and via zoom)
 
 ## Overview
 

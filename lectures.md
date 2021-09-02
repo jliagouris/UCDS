@@ -99,7 +99,7 @@ Ultimately, students are responsible for their own learning and, thus, for keepi
   <tr>
     <td class="tg-0pky">10/14</td>
     <td class="tg-0pky">Lec 10: Generalized Additive Models</td>
-    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/10.1145/2783258.2788613">Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission</a></td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/10.1145/2339530.2339556">Intelligible Models for Classification and Regression</a></td>
   </tr>
   <tr>
     <td class="tg-31ua">10/15</td>

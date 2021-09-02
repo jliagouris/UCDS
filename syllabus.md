@@ -5,7 +5,7 @@
 **Instructor Name**: John Liagouris  
 **Office Location**: 111 Cummington Mall, R139 <br />
 **Course Time & Location**:	Tue/Thu 9:30-10:45, FLR 121  
-**Office Hours**: TBD  
+**Office Hours**: Thu 1-3pm, MCS R139 (and via Zoom)
 
 ## Courseware
 - We will use the [course website](https://jliagouris.github.io/UCDS/) to maintain an up-to-date [class schedule](https://jliagouris.github.io/UCDS/lectures.html).

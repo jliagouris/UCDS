@@ -188,19 +188,18 @@ analysis of distributed dataflows</a></td>
     <td class="tg-0pky">Lec 21: Log-based Performance Analysis</td>
     <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chow.pdf">The Mystery Machine: End-to-end performance analysis of large-scale internet services</a></td>
   </tr>
-  <tr>
-    <td class="tg-0pky">12/03</td>
-    <td class="tg-0pky">Lec 22: Black-Box Performance Analysis</td>
-    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1165389.945454">Performance debugging for distributed systems of black boxes</a></td>
+    <td class="tg-31ub">12/07</td>
+    <td class="tg-31ub">Lec 22: Black-Box Performance Analysis<br />Quiz #3 (during lecture)</td>
+    <td class="tg-31ub">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1165389.945454">Performance debugging for distributed systems of black boxes</a></td>
   </tr>
-  <tr>
+  <!--<tr>
     <td class="tg-31ub">12/07</td>
     <td class="tg-31ub">Lec 23: Root-cause Analysis <br />Quiz #3 (during lecture)</td>
     <td class="tg-31ub">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2934872.2934910">Better network diagnostics with differential provenance</a></td>
-  </tr>
+  </tr>-->
   <tr>
     <td class="tg-31ua">12/9</td>
-    <td class="tg-31ua">Lec 24: Recap</td>
+    <td class="tg-31ua">Lec 23: Recap</td>
     <td class="tg-31ua">DUE DATE: Assignment #4 / Final Project</td>
   </tr>
 </table>

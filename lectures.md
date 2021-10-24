@@ -128,8 +128,8 @@ Ultimately, students are responsible for their own learning and, thus, for keepi
   </tr>
   <tr>
     <td class="tg-xgl1">10/26</td>
-    <td class="tg-xglb">Lec 13: Guest Lecture</td>
-    <td class="tg-xgl1">TBD</td>
+    <td class="tg-xglb">Lec 13: Guest Lecture by Chonghua Xue (BU MED)</td>
+    <td class="tg-xgl1">Interpret deep learning models’ behavior in reading brain MRIs</td>
   </tr>
   <tr>
     <td class="tg-31ub">10/28</td>

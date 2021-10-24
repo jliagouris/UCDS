@@ -197,7 +197,7 @@ analysis of distributed dataflows</a></td>
     <td class="tg-31ub">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1165389.945454">Performance debugging for distributed systems of black boxes</a></td>
   </tr>
   <tr>
-    <td class="tg-31ua">12/9</td>
+    <td class="tg-31ua">12/09</td>
     <td class="tg-31ua">Lec 23: Recap</td>
     <td class="tg-31ua">DUE DATE: Assignment #4 / Final Project</td>
   </tr>

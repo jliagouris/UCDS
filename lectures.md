@@ -99,7 +99,10 @@ Ultimately, students are responsible for their own learning and, thus, for keepi
   <tr>
     <td class="tg-0pky">10/14</td>
     <td class="tg-0pky">Lec 10: Generalized Additive Models</td>
-    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/10.1145/2339530.2339556">Intelligible Models for Classification and Regression</a></td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/10.1145/2339530.2339556">Intelligible Models for Classification and Regression</a>
+      <br />
+      Watch: <a href="https://www.youtube.com/watch?v=MREiHgHgl0k">The Science Behind InterpretML: Explainable Boosting Machine</a>
+    </td>
   </tr>
   <tr>
     <td class="tg-31ua">10/15</td>
@@ -109,8 +112,8 @@ Ultimately, students are responsible for their own learning and, thus, for keepi
   <tr>
     <td class="tg-0pky">10/19</td>
     <td class="tg-0pky">Lec 11: Explaining Classification Results</td>
-    <td class="tg-0pky"> Watch: <a href="https://channel9.msdn.com/Shows/AI-Show/The-Science-Behind-InterpretML-LIME">The Science Behind InterpretML: LIME</a> <br /> 
-      Optional: <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">“Why should I trust you?” Explaining the predictions of any classifier</a></td>
+    <td class="tg-0pky"> Read: <a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">“Why should I trust you?” Explaining the predictions of any classifier</a> <br /> 
+      Watch: <a href="https://channel9.msdn.com/Shows/AI-Show/The-Science-Behind-InterpretML-LIME">The Science Behind InterpretML: LIME</a></td>
   </tr> 
   <tr>
     <td class="tg-0pky">10/21</td>

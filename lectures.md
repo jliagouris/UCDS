@@ -148,10 +148,16 @@ Ultimately, students are responsible for their own learning and, thus, for keepi
       Optional: <a href="https://www.youtube.com/watch?v=jE0V-p1odPg"> SOSP'15 talk</a> </td>
   </tr>
   <tr>
-    <td class="tg-0pky">11/11</td>
-    <td class="tg-0pky">Lec 17: Distributed System Tracing <br /> Discussion on Assignment #4 </td>
+    <td class="tg-0pky">11/09</td>
+    <td class="tg-0pky">Lec 17: Distributed System Tracing </td>
     <td class="tg-0pky">Read: <a href="https://research.google/pubs/pub36356/">Dapper: A large-scale distributed systems tracing infrastructure</a>
     <br /> Optional: <a href="https://www.usenix.org/legacy/event/nsdi07/tech/full_papers/fonseca/fonseca.pdf">X-Trace: A pervasive network tracing framework</a>   
+    </td>
+  </tr>
+   <tr>
+    <td class="tg-0pky">11/11</td>
+    <td class="tg-0pky">Lec 18: Distributed System Tracing (cont.) <br /> Discussion on Assignment #4</td>
+    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815415">Pivot Tracing: Dynamic causal monitoring for distributed systems </a> 
     </td>
   </tr>
     <tr>
@@ -163,12 +169,6 @@ Ultimately, students are responsible for their own learning and, thus, for keepi
     <td class="tg-0pky">11/16</td>
     <td class="tg-0pkt">Hacking Day</td>
     <td class="tg-0pky">Office hours during lecture time</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">11/17</td>
-    <td class="tg-0pky">Lec 18: Distributed System Tracing (cont.)</td>
-    <td class="tg-0pky">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/2815400.2815415">Pivot Tracing: Dynamic causal monitoring for distributed systems </a> 
-    </td>
   </tr>
 <tr>
     <td class="tg-0pky">11/23</td>

@@ -193,17 +193,17 @@ analysis of distributed dataflows</a></td>
   </tr>
     <tr>
     <td class="tg-xgl1">12/02</td>
-    <td class="tg-xgl1">Guest Lecture</td>
+    <td class="tg-xgl1">Lec 22: Guest Lecture</td>
     <td class="tg-xgl1">TBA</td>
   </tr>
   <tr>
     <td class="tg-0pky">12/07</td>
-    <td class="tg-31ub">Lec 22: Black-Box Performance Analysis<br />Quiz #3 (during lecture)</td>
+    <td class="tg-31ub">Lec 23: Black-Box Performance Analysis<br />Quiz #3 (during lecture)</td>
     <td class="tg-31ub">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1165389.945454">Performance debugging for distributed systems of black boxes</a></td>
   </tr>
   <tr>
     <td class="tg-31ua">12/09</td>
-    <td class="tg-31ua">Lec 23: Recap</td>
+    <td class="tg-31ua">Lec 24: Recap</td>
     <td class="tg-31ua">DUE DATE: Assignment #4 / Final Project</td>
   </tr>
 </table>

@@ -171,9 +171,15 @@ Ultimately, students are responsible for their own learning and, thus, for keepi
     <td class="tg-0pky">Office hours during lecture time</td>
   </tr>
 <tr>
-    <td class="tg-0pky">11/23</td>
+    <td class="tg-0pky">11/18</td>
     <td class="tg-0pky">Lec 19: Big Data Systems Performance Analysis</td>
     <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-ousterhout.pdf">Making sense of performance in data analytics frameworks</a><br/> Optional: <a href="https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf">Scalability! But at what COST?</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11/23</td>
+    <td class="tg-0pky">Lec 20: Critical Path Analysis</td>
+    <td class="tg-0pky">Read: <a href="https://cs-people.bu.edu/liagos/material/nsdi18-snailtrail.pdf">SnailTrail: Generalizing critical paths for online
+analysis of distributed dataflows</a></td>
   </tr>
   <tr>
     <td class="tg-x5ol">11/25</td>
@@ -182,17 +188,16 @@ Ultimately, students are responsible for their own learning and, thus, for keepi
   </tr>
   <tr>
     <td class="tg-0pky">11/30</td>
-    <td class="tg-0pky">Lec 20: Critical Path Analysis</td>
-    <td class="tg-0pky">Read: <a href="https://cs-people.bu.edu/liagos/material/nsdi18-snailtrail.pdf">SnailTrail: Generalizing critical paths for online
-analysis of distributed dataflows</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">12/02</td>
     <td class="tg-0pky">Lec 21: Log-based Performance Analysis</td>
     <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chow.pdf">The Mystery Machine: End-to-end performance analysis of large-scale internet services</a></td>
   </tr>
+    <tr>
+    <td class="tg-xgl1">12/02</td>
+    <td class="tg-xgl1">Guest Lecture</td>
+    <td class="tg-xgl1">TBA</td>
+  </tr>
   <tr>
-    <td class="tg-31ub">12/07</td>
+    <td class="tg-0pky">12/07</td>
     <td class="tg-31ub">Lec 22: Black-Box Performance Analysis<br />Quiz #3 (during lecture)</td>
     <td class="tg-31ub">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1165389.945454">Performance debugging for distributed systems of black boxes</a></td>
   </tr>

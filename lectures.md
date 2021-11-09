@@ -197,7 +197,7 @@ analysis of distributed dataflows</a></td>
     <td class="tg-xgl1">TBA</td>
   </tr>
   <tr>
-    <td class="tg-0pky">12/07</td>
+    <td class="tg-31ub">12/07</td>
     <td class="tg-31ub">Lec 23: Black-Box Performance Analysis<br />Quiz #3 (during lecture)</td>
     <td class="tg-31ub">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1165389.945454">Performance debugging for distributed systems of black boxes</a></td>
   </tr>

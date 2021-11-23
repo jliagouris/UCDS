@@ -187,14 +187,16 @@ analysis of distributed dataflows</a></td>
     <td class="tg-x5ol">Thanksgiving Recess</td>
   </tr>
   <tr>
-    <td class="tg-0pky">11/30</td>
+    <td class="tg-xgl1">11/30</td>
+    <td class="tg-xgl1">Lec 22: Guest Lecture by Mert Toslali (BU ECE)</td>
+    <td class="tg-xgl1">Automating instrumentation choices for performance problems in distributed applications with VAIF <br />
+      Read: <a href="https://dl.acm.org/doi/10.1145/3472883.3487000">Automating instrumentation choices for performance problems in distributed applications with VAIF</a><br />
+      Optional: <a href="https://dl.acm.org/doi/10.1145/3357223.3362704">An automated, cross-layer instrumentation framework for diagnosing performance problems in distributed applications</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12/02</td>
     <td class="tg-0pky">Lec 21: Log-based Performance Analysis</td>
     <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chow.pdf">The Mystery Machine: End-to-end performance analysis of large-scale internet services</a></td>
-  </tr>
-    <tr>
-    <td class="tg-xgl1">12/02</td>
-    <td class="tg-xgl1">Lec 22: Guest Lecture</td>
-    <td class="tg-xgl1">TBA</td>
   </tr>
   <tr>
     <td class="tg-31ub">12/07</td>

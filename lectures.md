@@ -188,24 +188,24 @@ analysis of distributed dataflows</a></td>
   </tr>
   <tr>
     <td class="tg-xgl1">11/30</td>
-    <td class="tg-xgl1">Lec 22: Guest Lecture by Mert Toslali (BU ECE)</td>
+    <td class="tg-xgl1">Lec 21: Guest Lecture by Mert Toslali (BU ECE)</td>
     <td class="tg-xgl1">Automating instrumentation choices for performance problems in distributed applications with VAIF <br />
       Read: <a href="https://dl.acm.org/doi/10.1145/3472883.3487000">Automating instrumentation choices for performance problems in distributed applications with VAIF</a><br />
       Optional: <a href="https://dl.acm.org/doi/10.1145/3357223.3362704">An automated, cross-layer instrumentation framework for diagnosing performance problems in distributed applications</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">12/02</td>
-    <td class="tg-0pky">Lec 23: Log-based Performance Analysis</td>
+    <td class="tg-0pky">Lec 22: Log-based Performance Analysis</td>
     <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chow.pdf">The Mystery Machine: End-to-end performance analysis of large-scale internet services</a></td>
   </tr>
   <tr>
     <td class="tg-31ub">12/07</td>
-    <td class="tg-31ub">Lec 24: Black-Box Performance Analysis<br />Quiz #3 (during lecture)</td>
+    <td class="tg-31ub">Lec 23: Black-Box Performance Analysis<br />Quiz #3 (during lecture)</td>
     <td class="tg-31ub">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1165389.945454">Performance debugging for distributed systems of black boxes</a></td>
   </tr>
   <tr>
     <td class="tg-31ua">12/09</td>
-    <td class="tg-31ua">Lec 25: Recap</td>
+    <td class="tg-31ua">Lec 24: Recap</td>
     <td class="tg-31ua">DUE DATE: Assignment #4 / Final Project</td>
   </tr>
 </table>

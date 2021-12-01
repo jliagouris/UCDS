@@ -195,17 +195,17 @@ analysis of distributed dataflows</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">12/02</td>
-    <td class="tg-0pky">Lec 21: Log-based Performance Analysis</td>
+    <td class="tg-0pky">Lec 23: Log-based Performance Analysis</td>
     <td class="tg-0pky">Read: <a href="https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chow.pdf">The Mystery Machine: End-to-end performance analysis of large-scale internet services</a></td>
   </tr>
   <tr>
     <td class="tg-31ub">12/07</td>
-    <td class="tg-31ub">Lec 23: Black-Box Performance Analysis<br />Quiz #3 (during lecture)</td>
+    <td class="tg-31ub">Lec 24: Black-Box Performance Analysis<br />Quiz #3 (during lecture)</td>
     <td class="tg-31ub">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1165389.945454">Performance debugging for distributed systems of black boxes</a></td>
   </tr>
   <tr>
     <td class="tg-31ua">12/09</td>
-    <td class="tg-31ua">Lec 24: Recap</td>
+    <td class="tg-31ua">Lec 25: Recap</td>
     <td class="tg-31ua">DUE DATE: Assignment #4 / Final Project</td>
   </tr>
 </table>

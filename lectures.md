@@ -82,7 +82,7 @@ Students are expected to attend each lecture in person according to the BU safet
   </tr>
   <tr>
     <td class="tg-31ub">10/06</td>
-    <td class="tg-31ub">Lec 8: Discussion on Assignment #1<br />Quiz #1 (during lecture)</td>
+    <td class="tg-31ub">Lec 8: Discussion on Assignment #1<br /><b>Quiz #1 (during lecture)</b></td>
     <td class="tg-31ub">Common mistakes in Assignment #1</td>
   </tr>
   <tr>
@@ -122,7 +122,7 @@ Students are expected to attend each lecture in person according to the BU safet
   </tr>
     <tr>
     <td class="tg-31ub">10/27</td>
-    <td class="tg-31ub">Lec 13: Discussion on Assignment #3 <br />Quiz #2 (during lecture)</td>
+      <td class="tg-31ub">Lec 13: Discussion on Assignment #3 <br /><b>Quiz #2 (during lecture)</b></td>
     <td class="tg-31ub"></td>
   </tr>
   <tr>
@@ -192,7 +192,7 @@ analysis of distributed dataflows</a></td>
   </tr>
   <tr>
     <td class="tg-31ub">12/08</td>
-    <td class="tg-31ub">Lec 23: Black-Box Performance Analysis<br />Quiz #3 (during lecture)</td>
+    <td class="tg-31ub">Lec 23: Black-Box Performance Analysis<br /><b>Quiz #3 (during lecture)</b></td>
     <td class="tg-31ub">Read: <a href="https://dl.acm.org/doi/pdf/10.1145/1165389.945454">Performance debugging for distributed systems of black boxes</a>  </td>
   </tr>
   <tr>

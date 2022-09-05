@@ -2,7 +2,7 @@
 
 # Hands-on assignments
 
-The hands-on assignments include programming exercises in [Ray](https://ray.io), a distributed data processing framework with a Python API.
+The hands-on assignments include programming exercises on [Ray](https://ray.io), a distributed data processing framework with a Python API.
 
 ### Software requirements
 You can develop and execute Ray applications on Linux and macOS, while support for Windows is limited. 
@@ -24,7 +24,7 @@ There will be four (4) assignments during the semester, with availability and du
 
 | Assignment | Available | Due | Time |
 | :------: | :-----: | :---: | 
-| 1 | 09/16 | 10/01 | 2 weeks |
-| 2 | 10/02 | 10/22 | 3 weeks |
-| 3 | 10/28 | 11/12 | 2 weeks |
-| 4 | 11/11 | 12/09 | 1 month |
+| 1 | 09/20 | 10/04 | 2 weeks |
+| 2 | 10/05 | 10/21 | 2.5 weeks |
+| 3 | 10/27 | 11/11 | 2 weeks |
+| 4 | 11/15 | 12/09 | 3.5 weeks |

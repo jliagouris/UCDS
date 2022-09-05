@@ -5,6 +5,11 @@ Make sure to become familiar with the [Official Semester Dates](https://www.bu.e
 - The Last Day to DROP Clases (without a 'W' grade) is **October 11, 2022**
 - The Last Day to DROP Classes (with a 'W' grade) is **November 14, 2022**
 
+### Quiz Dates
+- Quiz 1 Day (on lectures 1-7) is **October 6, 2022** 
+- Quiz 2 Day (on lectures 8-13) is **October 27, 2022**
+- Quiz 3 Day (on lectures 15-23) is **December 8, 2022**
+
 ### Attendance
 Students are expected to attend each lecture in person according to the BU safety guidlines. All course material will be posted on [Piazza](https://piazza.com/bu/fall2022/cs591l1/home). Ultimately, students are responsible for their own learning and, thus, for keeping up with the material.
 
@@ -82,7 +87,7 @@ Students are expected to attend each lecture in person according to the BU safet
   </tr>
   <tr>
     <td class="tg-31ub">10/06</td>
-    <td class="tg-31ub">Lec 8: Discussion on Assignment #1<br />**Quiz #1 (during lecture)**</td>
+    <td class="tg-31ub">Lec 8: Discussion on Assignment #1<br />Quiz #1 (during lecture)</td>
     <td class="tg-31ub">Common mistakes in Assignment #1</td>
   </tr>
   <tr>

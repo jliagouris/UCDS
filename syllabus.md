@@ -3,13 +3,16 @@
 # Course Syllabus: CS 599 L1 "User-centric Systems for Data Science" (Fall 2021)
 
 **Instructor Name**: John Liagouris  
-**Office Location**: 111 Cummington Mall, R139 <br />
-**Course Time & Location**:	Tue/Thu 9:30-10:45, FLR 121  
-**Office Hours**: Thu 1-3pm, MCS R139 (and via Zoom)
+**Office Location**: 111 Cummington Mall, MCS 207 <br />
+**Course Time & Location**:	Tue/Thu 12:30-13:45, WED 130  
+**TA**: Vivek Unnikrishnan
+
+**Instructor's Office Hours**: TBA <br />
+**TA's Office Hours**: TBA
 
 ## Courseware
 - We will use the [course website](https://jliagouris.github.io/UCDS/) to maintain an up-to-date [class schedule](https://jliagouris.github.io/UCDS/lectures.html).
-- We will use [Piazza](https://piazza.com/bu/fall2021/cs591l1/home) for discussions on course topics, as well as questions and clarifications regarding the assignments. You may also post on Piazza if you have any question on course logistics.
+- We will use [Piazza](https://piazza.com/bu/fall2022/cs591l1/home) for discussions on course topics, as well as questions and clarifications regarding the assignments. You may also post on Piazza if you have any question on course logistics.
 
 ## Course Description
 CS 599 L1 will be taught in the style of a graduate course that requires reading research papers and independent exploration of the material.
@@ -20,7 +23,6 @@ During the semester, we will discuss the following topics:
   - Lineage, Why, How and Where provenance
   - Why-not provenance
   - Database causality and responsibility
-  - Backward tracing
 - Model interpretability
   - Glass-box models
   - Explaining classification results
@@ -29,20 +31,19 @@ During the semester, we will discuss the following topics:
   - Causal profiling
   - End-to-end tracing
   - Critical path analysis
-  - Root-cause analysis
 
 ## Course Objectives
 The course aims at training students in fundamental and emerging techniques that help humans understand complex data processing pipelines.
 The course is divided in three parts. In Part I, we will discuss concepts of database provenance and causality that provide insights into query results. 
-In Part II, we will discuss relevant AI techniques for explaining classifications and interpreting model predictions. 
+In Part II, we will discuss AI techniques for explaining classifications and interpreting model predictions. 
 In Part III, we will discuss state-of-the-art profiling, tracing, and performance analysis techniques for distributed systems.
 
 At the end of the course, successful students will have a solid understanding of:
 - techniques that provide insights into the outputs and performance of data processing pipelines
-- the challenges and trade-offs one needs to consider when designing systems with a focus on explainability and performance clarity
+- the challenges and trade-offs one needs to consider when designing systems with a focus on *explainability* and *observability*
 
 ## Course Materials
-There is no required textbook for this class. After each lecture, slides will be posted on [Piazza](https://piazza.com/bu/fall2021/cs591l1/home). 
+There is no required textbook for this class. After each lecture, slides will be posted on [Piazza](https://piazza.com/bu/fall2022/cs591l1/home). 
 Further publicly available resources are listed in the course website, under ["Readings"](https://jliagouris.github.io/UCDS/readings.html). 
 Parts of the resources listed there will be given as (non-graded) reading assignments during the course. 
 You should be able to access all of these for free when connected to the campus network.
@@ -51,18 +52,18 @@ You should be able to access all of these for free when connected to the campus 
 The (tentative) lecture schedule is available [here](https://jliagouris.github.io/UCDS/lectures.html).
 
 ## Attendance
-Students are expected to attend each lecture in person according to the BU safety guidlines. **For students with GRS approval who cannot attend in person, all lectures will be offered online via Zoom and the recordings will be posted on [Piazza](https://piazza.com/bu/fall2021/cs591l1/home)**.
+Students are expected to attend each lecture in persons. All course material will be posted on [Piazza](https://piazza.com/bu/fall2022/cs591l1/home).
 Ultimately, students are responsible for their own learning and, thus, for keeping up with the material.
 
 ## Grading Scheme
-The course consists of lectures, quizzes, and hands-on assignments. Students will also have the option to do either the fourth assignment or a final project. **Final projects can be done individually or in teams of at most three students**. You can propose your own idea for the final project but you need to get the instructor's approval. **Project proposals must be submitted by October 15th**. Your final grade will be determined as follows: 
+The course includes lectures, quizzes, and hands-on assignments. **There is no final exam**. Your grade will be determined as follows: 
 - **3 in-class quizzes: 15%**:
   - Each 20-min quiz contributes 5% to the final grade.
 - **4 assignments (or 3 assignments and a final project): 85%**:
   - Assignment #1 contributes 15%.
   - Assignment #2 contributes 20%.
   - Assignment #3 contributes 20%.
-  - Assignment #4 / Final project contributes 30%.
+  - Assignment #4 contributes 30%.
   - To be considered complete, code deliverables must be accompanied by sufficient documentation.
   - The final project also includes a 15min presentation.
   

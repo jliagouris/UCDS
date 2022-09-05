@@ -5,8 +5,7 @@
 **Instructor Name**: John Liagouris  
 **Office Location**: 111 Cummington Mall, MCS 207 <br />
 **Course Time & Location**:	Tue/Thu 12:30-13:45, WED 130  
-**TA**: Vivek Unnikrishnan
-
+**TA**: Vivek Unnikrishnan <br />
 **Instructor's Office Hours**: TBA <br />
 **TA's Office Hours**: TBA
 

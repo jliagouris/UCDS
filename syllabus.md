@@ -24,8 +24,8 @@ During the semester, we will discuss the following topics:
   - Database causality and responsibility
 - Model interpretability
   - Glass-box models
-  - Explaining classification results
-  - Interpretting model predictions
+  - Explaining classification results (LIME)
+  - Interpretting model predictions (SHAP)
 - System performance analysis
   - Causal profiling
   - End-to-end tracing

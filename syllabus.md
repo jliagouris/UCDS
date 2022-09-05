@@ -18,15 +18,15 @@ CS 599 L1 will be taught in the style of a graduate course that requires reading
 The class will include lectures, readings, quizzes, programming assignments, and an optional final project.
 During the semester, we will discuss the following topics:
 
-- Data provenance
+- **PART I: Data provenance**
   - Lineage, Why, How and Where provenance
   - Why-not provenance
   - Database causality and responsibility
-- Model interpretability
+- **PART II: Interpretable ML** 
   - Glass-box models
   - Explaining classification results (LIME)
   - Interpretting model predictions (SHAP)
-- System performance analysis
+- **PART III: System observability**
   - Causal profiling
   - End-to-end tracing
   - Critical path analysis

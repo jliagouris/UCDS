@@ -2,8 +2,8 @@
 
 ### Special Dates
 Make sure to become familiar with the [Official Semester Dates](https://www.bu.edu/reg/calendars/semester/). Some of the critical Semester Dates are:
-- The Last Day to DROP Clases (without a 'W' grade) October 11, 2022.
-- The Last Day to DROP Classes (with a 'W' grade) November 14, 2021
+- The Last Day to DROP Clases (without a 'W' grade) is **October 11, 2022**
+- The Last Day to DROP Classes (with a 'W' grade) is **November 14, 2022**
 
 ### Attendance
 Students are expected to attend each lecture in person according to the BU safety guidlines. All course material will be posted on [Piazza](https://piazza.com/bu/fall2022/cs591l1/home). Ultimately, students are responsible for their own learning and, thus, for keeping up with the material.

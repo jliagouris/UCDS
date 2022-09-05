@@ -1,6 +1,6 @@
 Welcome to **CS 599 L1: User-centric Systems for Data Science**, Fall 2022
 
-## [Lectures](./lectures.html) \| [Assignments](./assignments.html) \| [Readings](./readings.html) \| [Piazza](https://piazza.com/bu/fall2021/cs591l1/home)
+## [Lectures](./lectures.html) \| [Assignments](./assignments.html) \| [Readings](./readings.html) \| [Piazza](https://piazza.com/bu/fall2022/cs599l1/home)
 
 ## Course Information
 

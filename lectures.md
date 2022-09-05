@@ -82,7 +82,7 @@ Students are expected to attend each lecture in person according to the BU safet
   </tr>
   <tr>
     <td class="tg-31ub">10/06</td>
-    <td class="tg-31ub">Lec 8: Discussion on Assignment #1<br /><b>Quiz #1 (during lecture)</b></td>
+    <td class="tg-31ub">Lec 8: Discussion on Assignment #1<br />**Quiz #1 (during lecture)**</td>
     <td class="tg-31ub">Common mistakes in Assignment #1</td>
   </tr>
   <tr>

@@ -11,7 +11,7 @@
 
 ## Courseware
 - We will use the [course website](https://jliagouris.github.io/UCDS/) to maintain an up-to-date [class schedule](https://jliagouris.github.io/UCDS/lectures.html).
-- We will use [Piazza](https://piazza.com/bu/fall2022/cs591l1/home) for discussions on course topics, as well as questions and clarifications regarding the assignments. You may also post on Piazza if you have any question on course logistics.
+- We will use [Piazza](https://piazza.com/bu/fall2022/cs599l1/home) for discussions on course topics, as well as questions and clarifications regarding the assignments. You may also post on Piazza if you have any question on course logistics.
 
 ## Course Description
 CS 599 L1 will be taught in the style of a graduate course that requires reading research papers and independent exploration of the material.
@@ -42,7 +42,7 @@ At the end of the course, successful students will have a solid understanding of
 - the challenges and trade-offs one needs to consider when designing systems with a focus on *explainability* and *observability*
 
 ## Course Materials
-There is no required textbook for this class. After each lecture, slides will be posted on [Piazza](https://piazza.com/bu/fall2022/cs591l1/home). 
+There is no required textbook for this class. After each lecture, slides will be posted on [Piazza](https://piazza.com/bu/fall2022/cs599l1/home). 
 Further publicly available resources are listed in the course website, under ["Readings"](https://jliagouris.github.io/UCDS/readings.html). 
 Parts of the resources listed there will be given as (non-graded) reading assignments during the course. 
 You should be able to access all of these for free when connected to the campus network.
@@ -51,7 +51,7 @@ You should be able to access all of these for free when connected to the campus 
 The (tentative) lecture schedule is available [here](https://jliagouris.github.io/UCDS/lectures.html).
 
 ## Attendance
-Students are expected to attend each lecture in persons. All course material will be posted on [Piazza](https://piazza.com/bu/fall2022/cs591l1/home).
+Students are expected to attend each lecture in persons. All course material will be posted on [Piazza](https://piazza.com/bu/fall2022/cs599l1/home).
 Ultimately, students are responsible for their own learning and, thus, for keeping up with the material.
 
 ## Grading Scheme

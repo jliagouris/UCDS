@@ -63,7 +63,7 @@ The course includes lectures, quizzes, and hands-on assignments. **There is no f
   - Assignment #2 contributes 20%.
   - Assignment #3 contributes 20%.
   - Assignment #4 / Final Project contributes 30%.
-  - To be considered complete, code deliverables must be accompanied by sufficient documentation.
+  - To be considered complete, code deliverables must include sufficient documentation.
 
 ## Final project (optional)
   - Instead of Assignment #4.

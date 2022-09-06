@@ -1,6 +1,6 @@
 ## [<< back](./index.html)
 
-# Course Syllabus: CS 599 L1 "User-centric Systems for Data Science" (Fall 2021)
+# Course Syllabus: CS 599 L1 "User-centric Systems for Data Science" (Fall 2022)
 
 **Instructor Name**: John Liagouris <br />
 **TA**: Vivek Unnikrishnan <br />

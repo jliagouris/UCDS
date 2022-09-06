@@ -62,9 +62,15 @@ The course includes lectures, quizzes, and hands-on assignments. **There is no f
   - Assignment #1 contributes 15%.
   - Assignment #2 contributes 20%.
   - Assignment #3 contributes 20%.
-  - Assignment #4 contributes 30%.
+  - Assignment #4 / Final Project contributes 30%.
   - To be considered complete, code deliverables must be accompanied by sufficient documentation.
-  - The final project also includes a 15min presentation.
+
+## Final project (optional)
+  - Instead of Assignment #4.
+  - Can be done individually or in teams of at most 3 students.
+  - Students must discuss the scope of the project with the instructor and submit a project proposal.
+  - Deadline for project proposals is **November 1st, 2022**.
+  - Final projects also require a 15min presentation.
   
 ## Late Submission
 Assignment solutions and final projects will be submitted using the course Gitlab. 

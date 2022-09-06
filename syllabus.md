@@ -3,8 +3,8 @@
 # Course Syllabus: CS 599 L1 "User-centric Systems for Data Science" (Fall 2021)
 
 **Instructor Name**: John Liagouris <br />
-**Course Time & Location**:	Tue/Thu 12:30-13:45, [WED 130](https://www.bu.edu/classrooms/classroom/wed-130/)  
 **TA**: Vivek Unnikrishnan <br />
+**Course Time & Location**:	Tue/Thu 12:30-13:45, [WED 130](https://www.bu.edu/classrooms/classroom/wed-130/)  
 **Instructor's Office Hours**: Tue 4-6pm, MCS 207 <br />
 **TA's Office Hours**: Fri 10am-12pm, MCS 103
 

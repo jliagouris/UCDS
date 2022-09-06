@@ -6,8 +6,8 @@
 **Office Location**: 111 Cummington Mall, MCS 207 <br />
 **Course Time & Location**:	Tue/Thu 12:30-13:45, WED 130  
 **TA**: Vivek Unnikrishnan <br />
-**Instructor's Office Hours**: TBA <br />
-**TA's Office Hours**: TBA
+**Instructor's Office Hours**: Tue 4-6pm, MCS 207 <br />
+**TA's Office Hours**: Fri 10am-12pm, Room TBA
 
 ## Courseware
 - We will use the [course website](https://jliagouris.github.io/UCDS/) to maintain an up-to-date [class schedule](https://jliagouris.github.io/UCDS/lectures.html).

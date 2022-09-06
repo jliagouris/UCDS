@@ -9,7 +9,7 @@ Welcome to **CS 599 L1: User-centric Systems for Data Science**, Fall 2022
 - Instructor: [John Liagouris](https://cs-people.bu.edu/liagos/)
 - Lectures: Tue/Thu 12:30-13:45, [WED	130](https://www.bu.edu/classrooms/classroom/wed-130/)
 - TA: Vivek Unnikrishnan
-- Office hours: TBA
+- Office hours: Tue 4-6pm, MCS 207 (John) and Fri 10am-12pm, Room TBA (Vivek)
 
 ## Overview
 

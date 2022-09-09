@@ -50,7 +50,7 @@ You should be able to access all of these for free when connected to the campus 
 The (tentative) lecture schedule is available [here](https://jliagouris.github.io/UCDS/lectures.html).
 
 ## Attendance
-Students are expected to attend each lecture in persons. All course material will be posted on [Piazza](https://piazza.com/bu/fall2022/cs599l1/home).
+Students are expected to attend lectures in person. All course material will be posted on [Piazza](https://piazza.com/bu/fall2022/cs599l1/home).
 Ultimately, students are responsible for their own learning and, thus, for keeping up with the material.
 
 ## Grading Scheme

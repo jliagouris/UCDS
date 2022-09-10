@@ -18,10 +18,13 @@ explanation.show()                # Print explanation to stdout
 
 This assignment requires building a simple ML pipeline for interpreting the predictions of a black-box medical image classifier. A group of researchers from the BU Department of Medicine will provide a CNN model trained on brain MRIs that predicts whether a patient is likely to develop Alzheimer’s Disease (AD) in the future. The goal is to highlight brain regions that contribute positively or negatively to the model prediction and help doctors verify whether these regions are consistent with current clinical knowledge of AD.
 
+![Explainable AI](shap4med.jpg)
+
 ### Assignment 4
 
 The last assignment focuses on profiling a distributed data processing application on Ray. This assignment is based on a recent collaboration between BU and NASA. We will provide a real pipeline that pulls satellite images from Google Earth Engine and applies a regression model to detect changes in land cover over large periods of time. Your task will be to instrument the pipeline, collect performance traces, and visualize these traces to help us identify bottlenecks in the execution. For this assignment, you will run experiments in the [Mass Open Cloud](https://massopen.cloud).
 
+![Remote Sensing](remote_sensing.jpg)
 
 ### Software requirements
 

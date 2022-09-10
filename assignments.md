@@ -26,6 +26,16 @@ The last assignment focuses on profiling a distributed data processing applicati
 
 ![Remote Sensing](remote_sensing.jpg)
 
+### Due dates
+The availability and due dates of the 4 assignments are shown below:
+
+| Assignment | Available | Due | Time |
+| :------: | :-----: | :---: | 
+| 1 | 09/20 | 10/04 | 2 weeks |
+| 2 | 10/05 | 10/21 | 2.5 weeks |
+| 3 | 10/27 | 11/11 | 2 weeks |
+| 4 | 11/15 | 12/09 | 3.5 weeks |
+
 ### Software requirements
 
 You will need to have [Python 3.7+](https://www.python.org/downloads/), [Pytest](https://docs.pytest.org/en/stable/), and [Ray](https://docs.ray.io/en/latest/installation.html) installed.
@@ -39,13 +49,3 @@ To successfully complete the assignments, always make sure to read the relevant 
 - [Python](https://docs.python.org/3/tutorial/)
 - [Pytest](https://docs.pytest.org/en/stable/#documentation)
 - [Ray](https://docs.ray.io/en/latest)
-
-### Due dates
-There will be four (4) assignments during the semester, with availability and due dates as shown below:
-
-| Assignment | Available | Due | Time |
-| :------: | :-----: | :---: | 
-| 1 | 09/20 | 10/04 | 2 weeks |
-| 2 | 10/05 | 10/21 | 2.5 weeks |
-| 3 | 10/27 | 11/11 | 2 weeks |
-| 4 | 11/15 | 12/09 | 3.5 weeks |

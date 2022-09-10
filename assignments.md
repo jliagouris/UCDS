@@ -6,7 +6,7 @@ The hands-on assignments include programming exercises in Python and [Ray](https
 
 ### Assignments 1 & 2
 
-You will implement a Python library of gereral relational operators (Select, Join, Group-by, etc.) with support for transparent provenance tracking. Your library will automatically capture various types of causal relationships to help users understand dependencies between inputs and outputs of a computation. Your last task will be to port the library into Ray and add support for parallelism based on a code skeleton that we will provide. In the end, users of your library should be able to compose and execute arbitrary relational queries and generate output explanations as shown below:
+In the first two assignments you will implement a Python library of relational operators (Select, Join, Group-by, etc.) with support for transparent provenance tracking. Your library will automatically capture various types of causal relationships to help users understand dependencies between inputs and outputs of a computation. Your last task will be to port the library into Ray and add support for parallelism based on a code skeleton that we will provide. In the end, users of your library should be able to compose and execute arbitrary relational queries and generate output explanations as shown below:
 
 ```
 output = query.execute()          # Execute query

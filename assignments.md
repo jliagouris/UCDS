@@ -14,6 +14,8 @@ explanation = output.explain()    # Generate output explanation
 explanation.show()                # Print explanation to stdout
 ```
 
+![Data Provenance](provenance.jpg)
+
 ### Assignment 3
 
 This assignment requires building a simple ML pipeline that provides insights into the predictions of a black-box medical image classifier. A group of researchers from the BU Department of Medicine will provide a CNN model trained on brain MRIs that predicts whether a patient is likely to develop Alzheimer’s Disease (AD) in the future. The goal is to highlight brain regions that contribute positively or negatively to the model prediction and help doctors verify whether these regions are consistent with current clinical knowledge of AD.

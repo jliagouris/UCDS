@@ -26,7 +26,6 @@ This assignment requires building a simple ML pipeline that provides insights in
 
 The last assignment focuses on profiling a distributed data processing application on Ray. This assignment is based on a recent collaboration between BU and NASA. We will provide a real pipeline that pulls satellite images from Google Earth Engine and applies a regression model to detect changes in land cover over large periods of time. Your task will be to instrument the pipeline, collect performance traces, and visualize these traces to help us identify bottlenecks in the execution. For this assignment, you will run experiments in the [Mass Open Cloud](https://massopen.cloud).
 
-![Remote Sensing](remote_sensing.jpg)
 
 ### Due dates
 The availability and due dates of the 4 assignments are shown below:

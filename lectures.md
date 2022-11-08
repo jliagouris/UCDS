@@ -132,8 +132,8 @@ Students are expected to attend each lecture in person according to the BU safet
   </tr>
   <tr>
     <td class="tg-xgl1">11/01</td>
-    <td class="tg-xglb">Lec 14: Guest Lecture</td>
-    <td class="tg-xgl1">TBA</td>
+    <td class="tg-xglb">Lec 14: Guest Lecture by Bojan Karlas (Harvard Medical School)</td>
+    <td class="tg-xgl1">Data Systems for Managing and Debugging Machine Learning Development Workflows</td>
   </tr>
   <tr>
     <td class="tg-x5oc">11/03</td>
